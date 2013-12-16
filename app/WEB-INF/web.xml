@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  <display-name>Chadwick Farms Homepage</display-name>
+  <description>
+     The chadwick farms community home page.
+  </description>
+
+<!-- SERVLET NAMES //-->
+  
+  <servlet>
+    <servlet-name>Minutes</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>MinutesAction</param-value>
+    </init-param>
+  </servlet>
+  <servlet>
+    <servlet-name>Directions</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>DirectionsAction</param-value>
+    </init-param>
+  </servlet>
+  <servlet>
+    <servlet-name>Contact</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>ContactAction</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>SignIn</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>SignInAction</param-value>
+    </init-param>
+  </servlet>
+
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>chadwickfarms.servlet.LoginServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+    <servlet-name>StartupServlet</servlet-name>
+    <servlet-class>chadwickfarms.servlet.StartupServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+
+<!-- SERVLET MAPPINGS //-->
+
+  <servlet-mapping>
+    <servlet-name>Minutes</servlet-name>
+    <url-pattern>/m</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>Directions</servlet-name>
+    <url-pattern>/d</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>Contact</servlet-name>
+    <url-pattern>/c</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>SignIn</servlet-name>
+    <url-pattern>/signin</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  
+  <error-page>
+    <error-code>404</error-code>
+    <location>/404error.jsp</location>
+  </error-page> 
+
+  <resource-ref>
+   <res-ref-name>jdbc/brettmelton_com</res-ref-name>
+   <res-type>javax.sql.DataSource</res-type>
+   <res-auth>Container</res-auth>
+  </resource-ref>
+
+  <security-constraint>
+    <display-name>Sensitive Chadwick Security Constraint</display-name>
+    <web-resource-collection>
+      <web-resource-name>Chadwick Farms Sensitive Material</web-resource-name>
+      <description>Security constraint for Sensitive Materials</description>
+      <!-- Define the context-relative URL(s) to be protected -->
+      <url-pattern>/m</url-pattern>
+      <http-method>POST</http-method>
+      <http-method>GET</http-method>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>admin</role-name>
+      <role-name>resident</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <description>SSL Not Required</description>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  
+  <security-constraint>
+    <display-name>No Authentication</display-name>
+    <web-resource-collection>
+      <web-resource-name>Chadwick WebSite</web-resource-name>
+      <description>Security constraint for resources in Chadwickfarms.net</description>
+      <url-pattern>/*</url-pattern>
+      <http-method>POST</http-method>
+      <http-method>GET</http-method>
+    </web-resource-collection>
+    <user-data-constraint>
+      <description>SSL Not Required</description>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+
+  <!-- Default login configuration uses form-based authentication -->
+  <login-config>
+    <auth-method>FORM</auth-method>
+    <realm-name>Required Authentication Area</realm-name>
+    <form-login-config>
+      <form-login-page>/logon.jsp</form-login-page>
+      <form-error-page>/logon.jsp?action=error</form-error-page>
+    </form-login-config>
+  </login-config>
+  
+  <!-- Security roles referenced by this web application -->
+  <security-role>
+    <description>Administrators</description>
+    <role-name>admin</role-name>
+  </security-role>
+  <security-role>
+    <description>Resident</description>
+    <role-name>resident</role-name>
+  </security-role>
+
+</web-app>

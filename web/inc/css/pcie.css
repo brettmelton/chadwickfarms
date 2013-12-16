@@ -1,0 +1,322 @@
+BODY
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-weight: normal;
+	font-size: 12px;
+	color: #000000;
+	scrollbar-face-color: #D7E1D7;
+	scrollbar-highlight-color: #447467;
+	scrollbar-shadow-color: #114134;
+	scrollbar-3dlight-color: #447467;
+	scrollbar-arrow-color: #225245;
+	scrollbar-track-color: #A8B8A8;
+	scrollbar-darkshadow-color: #114134;
+	scrollbar-base-color: #D7E1D7;
+	margin: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	line-height: normal
+}
+TD
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+TD.SIDEMENU
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #000000;
+}
+TD.NEGATIVE
+{ 
+	font-family: arial,helvetica, verdana, sans serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FF0000;
+}
+TD.BOLD
+{ 
+	font-family: arial,helvetica, verdana, sans serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFCC;
+}
+.SIDEMENU A:link
+{
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.SIDEMENU A:active
+{
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.SIDEMENU A:visited
+{
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.SIDEMENU A:hover
+{
+	color: #000000;
+	text-decoration: underline;
+	font-weight: bold;
+}
+TD.DATAHEADER
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	color: #744467;
+}
+.DATAHEADER A:link
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATAHEADER A:active
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATAHEADER A:visited
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATAHEADER A:hover
+{
+	color: #990000;
+	text-decoration: none;
+}
+TD.DATACELL
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.DATACELL A:link
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATACELL A:active
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATACELL A:visited
+{
+	color: #744467;
+	text-decoration: none;
+}
+.DATACELL A:hover
+{
+	color: #FF0000;
+	text-decoration: none;
+}
+H2
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+}
+H3
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #744467;
+}
+UL
+{
+	PADDING-RIGHT: 0px;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 0px;
+	PADDING-TOP: 0px;
+	MARGIN-TOP: 5px;
+	MARGIN-BOTTOM: 5px;
+	MARGIN-RIGHT: 0px;
+	MARGIN-LEFT: 15px;
+	font-size: 12px;
+	font-family: arial, helvetica, verdana, sans-serif;
+	color: #000000;
+}
+TD.STEPWIZARDSELECTED
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+.STEPWIZARDSELECTED
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+TD.STEPWIZARDPLAIN
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #888888;
+}
+.STEPWIZARDPLAIN
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #888888;
+}
+TD.STEPWIZARDTITLE
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.STEPWIZARDTITLE
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+.SYSTEMTEXT
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.PLAIN
+{
+	font-family: courier, courier new, system, times;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+}
+SELECT
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	color: #000000;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px	
+}
+INPUT
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	color: #000000;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px
+}
+TEXTAREA
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	color: #000000;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px
+}
+.SEARCHPAGEDISPLAY
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #744467;
+	text-decoration: underline;
+}
+.SEARCHPAGEDISPLAY A:link
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #744467;
+	text-decoration: underline;
+}
+.SEARCHPAGEDISPLAY A:active
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #744467;
+	text-decoration: underline;
+}
+.SEARCHPAGEDISPLAY A:hover
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;	
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: underline;
+}
+TD.SEARCHPAGEDISPLAYOFF
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #888888;
+}
+.SEARCHPAGEDISPLAYOFF
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #888888;
+}
+.MSGBOX
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.TITLE
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #744467;
+}
+.SUBTITLE
+{
+	font-family: arial, helvetica, verdana, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #744467;
+}
