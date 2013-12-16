@@ -23,10 +23,10 @@
 
 <!-- Content Start -->
 <div class="text">
-<h1>Woah, What did you do ?!</h1>
+<h1>Ouch, you almost broke the internet</h1>
 
-<p>I'm sorry but the page you are looking for must be typed in correctly.
-Maybe you should stop typing with your feet.
+<p>Just kidding.   You have either typed in the URL incorrectly or this page is not currently available.
+Check back again later; but not too soon, the internet is still rebooting.
 
 </div>
 <!-- END Content -->

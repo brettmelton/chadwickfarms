@@ -114,7 +114,7 @@ function checkLogin(frm)
     }
   %>
  Username:<br>
- &nbsp;&nbsp;<input type="text" name="un" size="25" value="<%= ( null == strun ? "" : strun ) %>"> <br>
+ &nbsp;&nbsp;<input type="text" name="un" size="25" value="<%= ( null == strun ? "cf-resident" : strun ) %>"> <br>
  Password:<br>
  &nbsp;&nbsp;<input type="password" name="pw" size="15"> <p>
  <input type="button" value="sign in" onclick="document.chadwicklogin.submit();">

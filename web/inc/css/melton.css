@@ -115,7 +115,8 @@ h2 {
 }
 h3 {
 	margin:5px 0px 5px 10px;
-	font: normal 12px/12px Arial, verdana, lucida, sans-serif;
+	font: normal 13px/13px Arial, verdana, lucida, sans-serif;
+	font-style:italic;
 	color: #000;
 }
 

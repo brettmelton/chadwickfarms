@@ -25,9 +25,25 @@
 
 <div id="pageborder">
 
-<h2>Under Construction</h2>
+<h2>Have a voice</h2>
 
-This page will show people how to contact chadwick farms
+The best way to have your voice heard is to ask questions at the regularly scheduled board meetings.   Time will
+be set aside to ask those in attendance if there are any questions or concerns.   This is the best venue to address
+questions as others in the community can be involved as well.<p>
+
+If you are uncomfortable addressing your concern in a meeting or if you can't wait until the next meeting, please
+feel free to email the board at: <a href="mailto:board@chadwickfarms.net">board@chadwickfarms.net</a>.
+
+<p>
+
+<b>Property Management:</b><br>
+Cole Property Management <br>
+9805 NE 116th Street <br>
+Kirkland, WA 98034 <br>
+(425) 823-6263 <br>
+<a href="mailto:russ.cole@coleprop.com?subject=Chadwick%20Farms">russ.cole@coleprop.com</a><br>
+<p>
+If you notice problems with chadwickfarms.net, please email the <a href="mailto:webmaster@chadwickfarms.net?subject=Website%20Problems">webmaster@chadwickfarms.net</a><br>
 
 </div>
 

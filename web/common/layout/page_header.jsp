@@ -12,8 +12,7 @@
 
 	if( null == strFirstName || strFirstName.trim().length() < 1 )
 	{
-strFirstName = "I KNOW YOUR NAME";
-//    	strFirstName = chadwickfarms.action.Action.getCookieValue( request, "name" );
+    	strFirstName = chadwickfarms.action.ChadwickFarmsAction.getCookieValue( request, "name" );
 	}
 %>
 <div id="ltshadow">
@@ -34,11 +33,11 @@ Requires authentication:&nbsp;
 <span class="spacer">|</span>
 <a href="/d" class=<%= "Directions".equals(curpage) ? "navon" : "nav" %>>Directions</a>
 <span class="spacer">|</span>
+<a onclick="javascript:alert('Not Implemented Yet.');" href="/h" class=<%= "History".equals(curpage) ? "navon" : "nav" %>>History</a>
+<span class="spacer">|</span>
+<a onclick="javascript:alert('Not Implemented Yet.');" href="/p" class=<%= "Photos".equals(curpage) ? "navon" : "nav" %>>Photos</a>
+<span class="spacer">|</span>
 <a href="/c" class=<%= "Contact".equals(curpage) ? "navon" : "nav" %>>Contact Us</a>
-<span class="spacer">|</span>
-<a onclick="javascript:alert('Not Implemented Yet.');" href="/" class=<%= "link".equals(curpage) ? "navon" : "nav" %>>Photos</a>
-<span class="spacer">|</span>
-<a onclick="javascript:alert('Not Implemented Yet.');" href="/" class=<%= "link".equals(curpage) ? "navon" : "nav" %>>Link Here</a>
 </div>
 
 <!-- END page_header.jsp -->
