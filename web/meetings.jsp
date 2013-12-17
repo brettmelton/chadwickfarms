@@ -10,10 +10,6 @@
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
-<%@ page import="java.util.List" %>
-<%@ page import="java.util.Iterator" %>
-<%@ page import="chadwickfarms.util.DateWrapper" %>
-
 </head>
 
 <body>
@@ -25,9 +21,9 @@
 
 <div id="pageborder">
 
-<h2>Under Construction</h2>
+<h2>Residents Only Section is Under Construction</h2>
 
-This section can post former meeting meetings in a pdf format as well as have other information relevant for residents only.
+This section can post former meeting minutes in a pdf format as well as have other documents and information relevant for residents only.
 
 </div>
 
