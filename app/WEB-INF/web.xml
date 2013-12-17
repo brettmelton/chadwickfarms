@@ -27,6 +27,22 @@
     </init-param>
   </servlet>
   <servlet>
+    <servlet-name>History</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>HistoryAction</param-value>
+    </init-param>
+  </servlet>
+  <servlet>
+    <servlet-name>Photos</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>PhotosAction</param-value>
+    </init-param>
+  </servlet>
+  <servlet>
     <servlet-name>Contact</servlet-name>
     <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
     <init-param>
@@ -65,6 +81,16 @@
   <servlet-mapping>
     <servlet-name>Directions</servlet-name>
     <url-pattern>/d</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>History</servlet-name>
+    <url-pattern>/h</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>Photos</servlet-name>
+    <url-pattern>/p</url-pattern>
   </servlet-mapping>
 
   <servlet-mapping>
