@@ -30,7 +30,7 @@
 <h2>Community Board</h2>
 Marika Eve<br>
 Dale Dennie<br>
-Judy Hawkins<br>
+Judy Hopkins<br>
 Brett Melton<br>
 Judy Smith<br>
 
@@ -80,7 +80,7 @@ Kirkland, WA 98034 <br>
 
 <h2>Welcome to chadwickfarms.net</h2>
 
-Located near Big Fill Hill Park in north Kirkland, Chadwick Farms is a quiet and family friendly townhouse community of 36 units.
+Located near Big Finn Hill Park in north Kirkland, Chadwick Farms is a quiet and family friendly townhouse community of 36 units.
 Whether you are looking to start a family, find a relaxing place to retire, or a college student at Bastyr or UW Bothell,
 Chadwick Farms accommodates them all.  Our community is close to parks, schools, shopping centers, restaurants, and a few
 minutes drive to Interstate 405.
