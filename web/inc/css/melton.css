@@ -42,6 +42,18 @@ body {
 	background: url(/images/cf_entrance.png) no-repeat center;
 	background-size: contain;
 }
+.form_question {
+	border: 1;
+	background-color: #ccc;
+	padding: 1px 0px 1px 0px;
+}
+.hr_green80 {
+	border: 0;
+	background-color: #009900;
+	height: 2px;
+	width: 80%;
+	margin-top: 15pt;
+}
 #headerlinks {
     color: #660000;
 	text-align: right;
@@ -94,9 +106,13 @@ a.imagelink:hover {
 	background: #fff;
 	width: 470px;
 }
+.text_left {
+	float: left;
+	background: #fff;
+	width: 470px;
+}
 .text_sub {
 	background: #fff;
-
 }
 .copy {
 	margin: 20px 75px 35px 75px;

@@ -10,6 +10,7 @@ import java.util.Map;
 
 public final class Item
 {
+    private Map<String, String> _values;
 
     public static Item newInstance(String astrNames[], String astrValues[])
     {
@@ -18,7 +19,7 @@ public final class Item
 
     private Item()
     {
-        _values = new HashMap();
+        _values = new HashMap<String, String>();
     }
 
     private Item(String astrNames[], String astrValues[])
@@ -39,6 +40,4 @@ public final class Item
     {
         return (String)_values.get(name);
     }
-
-    private Map _values;
 }

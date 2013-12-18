@@ -38,16 +38,14 @@ Judy Smith<br>
 <br>
 
 <h2>Next Board Meeting</h2>
-Monday, January 27, 2014<br>
-7:30 PM<br>
+Monday, January 27, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <br>
 <br>
 
 <h2>Announcements</h2>
-Stay Warm!<br>
-Pray for snow<br>
+Stay Warm!  &nbsp;&nbsp; Pray for snow<br>
 
 <br>
 <br>
@@ -76,9 +74,9 @@ Kirkland, WA 98034 <br>
 <div class="text">
 <h1>Welcome to chadwickfarms.net</h1>
 
-<img src="/images/cf_entrance.png" width="100%">
+<img src="/images/cf_funinsun.png" width="100%" border="1">
 
-<h2>Welcome to chadwickfarms.net</h2>
+<h2>Our Community</h2>
 
 Located near Big Finn Hill Park in north Kirkland, Chadwick Farms is a quiet and family friendly townhouse community of 36 units.
 Whether you are looking to start a family, find a relaxing place to retire, or a college student at Bastyr or UW Bothell,
