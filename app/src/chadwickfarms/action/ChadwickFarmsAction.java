@@ -1,22 +1,19 @@
-// Decompiled by Jad v1.5.8g. Copyright 2001 Pavel Kouznetsov.
-// Jad home page: http://www.kpdus.com/jad.html
-// Decompiler options: packimports(3) 
-// Source File Name:   Action.java
-
 package chadwickfarms.action;
 
-import java.io.PrintStream;
 import java.util.*;
 
 import javax.servlet.http.*;
 
 import chadwickfarms.data.AccessLog;
-import chadwickfarms.data.DataObject;
 import chadwickfarms.user.UserData;
 
 public abstract class ChadwickFarmsAction
 {
-
+    protected HttpServletRequest _request = null;
+    protected HttpServletResponse _response = null;
+    protected HttpSession _theSession = null;
+    protected boolean _bLogValue = true;
+    
     protected abstract String doActionHandler();
 
     public ChadwickFarmsAction()
@@ -218,9 +215,4 @@ public abstract class ChadwickFarmsAction
     public static String KNOWN_BOTS[] = {
         "msnbot", "googlebot", "yahoo! slurp", "panscient.com"
     };
-    protected HttpServletRequest _request;
-    protected HttpServletResponse _response;
-    protected HttpSession _theSession;
-    protected boolean _bLogValue;
-
 }

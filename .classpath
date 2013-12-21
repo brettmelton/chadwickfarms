@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="/Volumes/brettmelton/apache-tomcat-7.0.29/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="/Volumes/brettmelton/apache-tomcat-7.0.29/lib/commons-dbcp-1.1.jar"/>
 	<classpathentry kind="lib" path="/Volumes/brettmelton/apache-tomcat-7.0.29/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/Volumes/brettmelton/apache-tomcat-7.0.29/lib/commons-lang3-3.1.jar"/>
 	<classpathentry kind="output" path="app/WEB-INF/classes"/>
 </classpath>

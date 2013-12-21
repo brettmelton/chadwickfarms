@@ -10,6 +10,23 @@
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
+<!-- java imports -->
+<%@ page import="java.lang.String" %>
+<%@ page import="java.util.ArrayList" %>
+<%@ page import="java.util.List" %>
+<%@ page import="java.util.Iterator" %>
+<%@ page import="org.apache.commons.lang3.StringUtils" %>
+
+<%@ page import="chadwickfarms.survey.Survey" %>
+<%@ page import="chadwickfarms.survey.SurveyOption" %>
+
+<!-- jsp useBeans -->
+<jsp:useBean id="surveys" type="ArrayList" class="java.util.ArrayList" scope="request"/>
+
+<jsp:useBean id="the_survey_id" type="String" class="java.lang.String" scope="request" />
+<jsp:useBean id="the_option_id" type="String" class="java.lang.String" scope="request" />
+<jsp:useBean id="the_user_id" type="String" class="java.lang.String" scope="request" />
+
 </head>
 
 <body>
@@ -50,6 +67,51 @@ know and we'll post it here.  FREE AD SPACE
 <br><br>
 
 <h2>Surveys</h2>
+<i>You must provide your unit number in order for your vote to be saved</i><br><br>
+<%
+for( int inx=0; inx < surveys.size(); ++inx )
+{
+	Survey survey = (Survey)surveys.get(inx);
+	int iSurveyId = survey.getId();
+	String strSurveyName = survey.getName();
+	String strSurveyQuestion = survey.getQuestion();
+	
+	ArrayList surveyOptions = (ArrayList)survey.getOptions();
+	String strButtonDisabled = ((StringUtils.isNotBlank(the_survey_id) && iSurveyId == Integer.parseInt(the_survey_id)) ? "disabled" : "" );
+%>
+
+<div class="form_question">
+<form action="/m" method="POST">
+<input type="hidden" name="submit_survey" value="true">
+<input type="hidden" name="survey_id" value="<%= iSurveyId %>">
+<b><%= strSurveyName %></b> <br> <i><%= strSurveyQuestion %></i> <br><br>
+Unit Number: <input type="text" name="user_id" maxlength="4" size="4"> <br><br>
+
+<%
+for( int jnx=0; jnx<surveyOptions.size(); ++jnx )
+{
+	SurveyOption surveyOption = (SurveyOption)surveyOptions.get(jnx);
+	int iSurveyOptionId = surveyOption.getId();
+	String strSurveyOptionValue = surveyOption.getValue();
+	
+	String strChecked = ((StringUtils.isNotBlank(the_option_id) && iSurveyOptionId == Integer.parseInt(the_option_id)) ? "checked" : "" );
+%>
+<input name="question<%= iSurveyId %>" type="radio" value="<%= iSurveyOptionId %>" <%= strChecked %>> <%= strSurveyOptionValue %> <br>
+<%
+} // end of for loop - surveyOptions
+%>
+
+<br>
+
+<input type="submit" value="Submit" onclick="javascript:alert('Thank you for voting.');" <%= strButtonDisabled %>>
+</form>
+</div>
+
+<br>
+
+<%
+} // end of for loop - surveys
+%>
 
 <div class="form_question">
 <form action="javascript:alert('just a sample survey');">
