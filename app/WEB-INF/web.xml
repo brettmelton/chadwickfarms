@@ -19,6 +19,14 @@
     </init-param>
   </servlet>
   <servlet>
+    <servlet-name>BoardOnly</servlet-name>
+    <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
+    <init-param>
+      <param-name>action</param-name>
+      <param-value>BoardOnlyAction</param-value>
+    </init-param>
+  </servlet>
+  <servlet>
     <servlet-name>Directions</servlet-name>
     <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
     <init-param>
@@ -77,6 +85,11 @@
     <servlet-name>Minutes</servlet-name>
     <url-pattern>/m</url-pattern>
   </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>BoardOnly</servlet-name>
+    <url-pattern>/board</url-pattern>
+  </servlet-mapping>
 
   <servlet-mapping>
     <servlet-name>Directions</servlet-name>
@@ -132,6 +145,27 @@
     <auth-constraint>
       <role-name>admin</role-name>
       <role-name>resident</role-name>
+      <role-name>boardmember</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <description>SSL Not Required</description>
+      <transport-guarantee>NONE</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  
+  <security-constraint>
+    <display-name>Sensitive Chadwick Board Members</display-name>
+    <web-resource-collection>
+      <web-resource-name>Chadwick Farms Board Only Material</web-resource-name>
+      <description>Security constraint for Sensitive Materials</description>
+      <!-- Define the context-relative URL(s) to be protected -->
+      <url-pattern>/board</url-pattern>
+      <http-method>POST</http-method>
+      <http-method>GET</http-method>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>admin</role-name>
+      <role-name>boardmember</role-name>
     </auth-constraint>
     <user-data-constraint>
       <description>SSL Not Required</description>
@@ -172,6 +206,10 @@
   <security-role>
     <description>Resident</description>
     <role-name>resident</role-name>
+  </security-role>
+  <security-role>
+    <description>Board Member</description>
+    <role-name>boardmember</role-name>
   </security-role>
 
 </web-app>

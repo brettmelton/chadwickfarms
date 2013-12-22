@@ -17,8 +17,8 @@
 <%@ page import="java.util.Iterator" %>
 <%@ page import="org.apache.commons.lang3.StringUtils" %>
 
-<%@ page import="chadwickfarms.survey.Survey" %>
-<%@ page import="chadwickfarms.survey.SurveyOption" %>
+<%@ page import="chadwickfarms.survey.SurveyOptions" %>
+<%@ page import="chadwickfarms.survey.Option" %>
 
 <!-- jsp useBeans -->
 <jsp:useBean id="surveys" type="ArrayList" class="java.util.ArrayList" scope="request"/>
@@ -54,13 +54,6 @@ and the password will be sent to you.   Please make sure to include your unit nu
 
 <div id="rightcolumn_home">
 
-<h2>Chadwick's List</h2>
-Okay, not as big as Craigslist but it could be.<br>
-Have something to sell or give away.  Let your board
-know and we'll post it here.  FREE AD SPACE
-
-<br><br>
-
 <h2>Documents</h2>
 <a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a>
 
@@ -71,7 +64,7 @@ know and we'll post it here.  FREE AD SPACE
 <%
 for( int inx=0; inx < surveys.size(); ++inx )
 {
-	Survey survey = (Survey)surveys.get(inx);
+	SurveyOptions survey = (SurveyOptions)surveys.get(inx);
 	int iSurveyId = survey.getId();
 	String strSurveyName = survey.getName();
 	String strSurveyQuestion = survey.getQuestion();
@@ -85,12 +78,12 @@ for( int inx=0; inx < surveys.size(); ++inx )
 <input type="hidden" name="submit_survey" value="true">
 <input type="hidden" name="survey_id" value="<%= iSurveyId %>">
 <b><%= strSurveyName %></b> <br> <i><%= strSurveyQuestion %></i> <br><br>
-Unit Number: <input type="text" name="user_id" maxlength="4" size="4"> <br><br>
+Unit Number: <input type="text" name="user_id" maxlength="4" size="4" value="<%= the_user_id %>"> <br><br>
 
 <%
 for( int jnx=0; jnx<surveyOptions.size(); ++jnx )
 {
-	SurveyOption surveyOption = (SurveyOption)surveyOptions.get(jnx);
+	Option surveyOption = (Option)surveyOptions.get(jnx);
 	int iSurveyOptionId = surveyOption.getId();
 	String strSurveyOptionValue = surveyOption.getValue();
 	
@@ -113,6 +106,7 @@ for( int jnx=0; jnx<surveyOptions.size(); ++jnx )
 } // end of for loop - surveys
 %>
 
+<!--
 <div class="form_question">
 <form action="javascript:alert('just a sample survey');">
 <b>This is a sample question</b> <br> <i>Do you like milk?</i> <br><br>
@@ -122,7 +116,7 @@ Unit Number: <input type="text" maxlength="4" size="4"> <br><br>
 <input type="submit" value="Submit">
 </form>
 </div>
-
+// -->
 
 <br><br><br>
 </div>
@@ -130,6 +124,11 @@ Unit Number: <input type="text" maxlength="4" size="4"> <br><br>
 		
 <!-- Content Start -->
 <div class="text_left">
+
+<h2>Chadwick's List</h2>
+Okay, not as big as Craigslist but it could be.  Have something to sell or give away.  Let your board know and we'll post it here.  FREE AD SPACE
+
+<br><br>
 
 <h2>Meeting Minutes Archive</h2>
 nothing to see yet.

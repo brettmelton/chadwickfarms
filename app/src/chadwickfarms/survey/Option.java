@@ -1,22 +1,22 @@
 package chadwickfarms.survey;
 
-public class SurveyOption
+public class Option
 {
 	
 	private final int id;
 	private final int surveyId;
 	private final String value;
 	
-	private SurveyOption(int id, int surveyId, String value)
+	private Option(int id, int surveyId, String value)
 	{
 		this.id = id;
 		this.surveyId = surveyId;
 		this.value = value;
 	}
 
-	public static SurveyOption newSurveyOption(int id, int surveyId, String value)
+	public static Option newSurveyOption(int id, int surveyId, String value)
 	{
-		return new SurveyOption( id, surveyId, value );
+		return new Option( id, surveyId, value );
 	}
 
 	public int getId() {
@@ -25,7 +25,6 @@ public class SurveyOption
 	public int getSurveyId() {
 		return surveyId;
 	}
-
 	public String getValue() {
 		return value;
 	}

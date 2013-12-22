@@ -4,10 +4,12 @@ package chadwickfarms.action;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.servlet.http.HttpSession;
+
+import org.apache.commons.lang3.StringUtils;
 
 import chadwickfarms.data.SurveyData;
-import chadwickfarms.survey.Survey;
-
+import chadwickfarms.survey.SurveyOptions;
 /**
  * @author brettmelton
  */
@@ -22,11 +24,19 @@ public class MinutesAction extends ChadwickFarmsAction
     protected String doActionHandler()
     {
         if( "true".equalsIgnoreCase( _request.getParameter("submit_survey") ) )
+        {
         	processSurvey();
+        }
+        else
+        {
+        	String strUserId = super.getCookieValue(_request, "USERID");
+        	if( StringUtils.isNotBlank(strUserId))
+        		_request.setAttribute("the_user_id", strUserId);
+        }
 
     	SurveyData surveyData = new SurveyData();
-    	List<Survey> surveys = surveyData.getOpenSurveys();
-        _request.setAttribute("surveys", (ArrayList)surveys);
+    	List<SurveyOptions> surveys = surveyData.getOpenSurveys();
+        _request.setAttribute("surveys", (ArrayList<SurveyOptions>)surveys);
         return s_strPage;
     }
 
@@ -36,11 +46,11 @@ public class MinutesAction extends ChadwickFarmsAction
     	String strOptionId = _request.getParameter("question" + strSurveyId);
     	String strUserId = _request.getParameter("user_id");
     	
-// TODO - I have their user id now.   cookie this value and in the doActionHandler,
-//		see if they've answered surveys before and put the list of ID's into the request
+        HttpSession theSession = _request.getSession(true);
+        theSession.setAttribute("USERID", strUserId);
+        super.assignCookie("USERID", strUserId);
     	
     	String strIpAddress = _request.getRemoteAddr();
-    	    	
     	try
     	{
     		int iSurveyId = Integer.parseInt(strSurveyId);

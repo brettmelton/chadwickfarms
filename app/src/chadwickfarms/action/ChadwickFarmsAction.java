@@ -112,12 +112,12 @@ public abstract class ChadwickFarmsAction
             System.out.println((new StringBuilder("UserAgent not logged: ")).append(strUserAgent).toString());
             return;
         }
-        List arrValues = new ArrayList();
+        List<String> arrValues = new ArrayList<String>();
         arrValues.add(strUserName);
         String strRequestURI = _request.getRequestURI();
         arrValues.add(strRequestURI);
         StringBuffer sbValue = new StringBuffer();
-        for(Enumeration enumNames = _request.getParameterNames(); enumNames.hasMoreElements();)
+        for(Enumeration<String> enumNames = _request.getParameterNames(); enumNames.hasMoreElements();)
         {
             String strName = (String)enumNames.nextElement();
             String astrValues[] = _request.getParameterValues(strName);
@@ -140,7 +140,7 @@ public abstract class ChadwickFarmsAction
         else
             arrValues.add("");
         sbValue = new StringBuffer();
-        for(Enumeration enumSessionNames = _theSession.getAttributeNames(); enumSessionNames.hasMoreElements();)
+        for(Enumeration<String> enumSessionNames = _theSession.getAttributeNames(); enumSessionNames.hasMoreElements();)
         {
             String strName = (String)enumSessionNames.nextElement();
             Object obj = _theSession.getAttribute(strName);
