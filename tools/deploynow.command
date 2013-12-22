@@ -1,10 +1,10 @@
 #!/bin/sh
 
-rm -r /Volumes/tomcat/webapps/chadwickfarms
+rm -r /Volumes/brettmelton/apache-tomcat-7.0.29/webapps/chadwickfarms
 
-rm -r "/Volumes/tomcat/work/Catalina/www.chadwickfarms.net"
+rm -r "/Volumes/brettmelton/apache-tomcat-7.0.29/work/Catalina/www.chadwickfarms.net"
 
-rm /Volumes/tomcat/webapps/chadwickfarms.war
+rm /Volumes/brettmelton/apache-tomcat-7.0.29/webapps/chadwickfarms.war
 
 echo  
 echo  
@@ -19,7 +19,7 @@ jar -cvf ../deploy/chadwickfarms.war ./WEB-INF -C ../web .
 cd ~/Projects/chadwickfarms/deploy
 pwd
 
-cp chadwickfarms.war /Volumes/tomcat/webapps
+cp chadwickfarms.war /Volumes/brettmelton/apache-tomcat-7.0.29/webapps
 
 cd ~/Projects/chadwickfarms/tools
 pwd
