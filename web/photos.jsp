@@ -25,6 +25,10 @@
 
 <h1>Chadwick Farms and surrounding area</h1>
 
+<h3>Snow and Berries</h3>
+<img src="/images/photos/Fall%20berrys.jpg" width="320" border="0">
+<img src="/images/photos/Winters%20Canvas.jpg" width="320" border="0">
+<br>
 <h3>Winter Time</h3>
 <a href="/images/photos/DCAM0001.jpg" target="_blank"><img src="/images/photos/DCAM0001.jpg" width="320" border="0"></a>
 <a href="/images/photos/DCAM0003.jpg" target="_blank"><img src="/images/photos/DCAM0003.jpg" width="320" border="0"></a>
