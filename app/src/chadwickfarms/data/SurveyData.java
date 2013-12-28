@@ -59,7 +59,7 @@ public class SurveyData extends DataObject
         sbSql.append( "SELECT a.user_identifier, b.value, a.user_ip_address, a.create_date " );
         sbSql.append( "FROM survey_answers a, survey_option b " );
         sbSql.append( "WHERE a.survey_id = ? AND a.survey_option_id = b.survey_option_id " );
-        sbSql.append( "ORDER BY a.user_identifier, b.value, a.create_date desc " );
+        sbSql.append( "ORDER BY a.user_identifier, a.create_date desc " );
         String strSql = sbSql.toString();
         try
         {

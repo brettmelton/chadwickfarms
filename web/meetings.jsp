@@ -55,7 +55,11 @@ and the password will be sent to you.   Please make sure to include your unit nu
 <div id="rightcolumn_home">
 
 <h2>Documents</h2>
-<a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a>
+<a href="/documents/bylaws11.pdf" target="_blank">Bylaws Part 1</a><br>
+<a href="/documents/bylaws21.pdf" target="_blank">Bylaws Part 2</a><br>
+<a href="/documents/ChadwickFireplaceLightingInstructions.pdf" target="_blank">Fireplace Lighting</a><br>
+<a href="/documents/WinterStormList.pdf" target="_blank">Winter Storm List</a><br>
+<a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a><br>
 
 <br><br>
 

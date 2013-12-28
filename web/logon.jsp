@@ -122,7 +122,8 @@ function checkLogin(frm)
 
 <br>
 
-Please send an <a href="mailto:webmaster@chadwickfarms.net?Submit=Request%20Login%20Credentials" target="_top">email</a> if you need further information.
+<b>Password was last changed on December 28, 2013.</b><br>
+Please send an email to <a href="mailto:webmaster@chadwickfarms.net?Submit=Request%20Login%20Credentials" target="_top">webmaster@chadwickfarms.net</a> if you need further information.
 
 <br>
 <br>

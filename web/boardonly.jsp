@@ -47,10 +47,11 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
 	SurveyAnswers surveyAnswers = (SurveyAnswers)the_survey_answers.get(inx);
 	String strSurveyName = surveyAnswers.getName();
 	String strSurveyQuestion = surveyAnswers.getQuestion();
+	String strHeaderRowColor = surveyAnswers.isActive() ? "#FFFFE0" : "#FCB8B8";
 %>
 <b><%= strSurveyName %>:</b> <i><%= strSurveyQuestion %></i><br>
 <table bgcolor="#000000" cellspacing="1" border="0" width="100%">
-  <tr bgcolor="#FFFFE0">
+  <tr bgcolor="<%= strHeaderRowColor %>">
     <td width="10%" nowrap id="AccessListName" align="center">Unit</td>
     <td width="15%" nowrap id="AccessListName" align="center">IP</td>
     <td width="20%" nowrap id="AccessListName" align="center">Date</td>
