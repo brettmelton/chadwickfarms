@@ -135,7 +135,49 @@ Okay, not as big as Craigslist but it could be.  Have something to sell or give 
 <br><br>
 
 <h2>Meeting Minutes Archive</h2>
-nothing to see yet.
+
+<a href="/documents/minutes/MeetingMinutes201310.pdf" target="_blank">October 2013</a><br>
+Primary topics covered:
+<ul>
+<li>Potential Projects for 2014 and beyond</li>
+<li>Board Membership</li>
+<li>2014 Budget Proposal</li>
+<li>Sump Pump Noise Fix</li>
+<li>Gutters</li>
+</ul>
+
+<br>
+
+<a href="/documents/minutes/MeetingMinutes201308.pdf" target="_blank">August 2013</a><br>
+Primary topics covered:
+<ul>
+<li>Release of Lien document</li>
+<li>Remedial repair close to being finished</li>
+<li>Grading and Drainage work</li>
+<li>Asphalt seal-coated and re-striped</li>
+<li>Roof leak in unit 8327</li>
+</ul>
+
+<br>
+
+<a href="/documents/minutes/MeetingMinutes20130625.pdf" target="_blank">June, 25 2013</a><br>
+This meeting included invited guests: Dan Zimberhoff, Ralph Allen, and Russ Cole<br>
+Primary topics covered:
+<ul>
+<li>Comments from guests</li>
+<li>Front door painting</li>
+<li>Removal of lien</li>
+</ul>
+
+<br>
+
+<a href="/documents/minutes/MeetingMinutes20130603.pdf" target="_blank">June, 03 2013</a><br>
+Primary topics covered:
+<ul>
+<li>Audit review</li>
+<li>Construction updates</li>
+<li>Cascade Pest Control</li>
+</ul>
 
 <br><br><br>
 </div>
