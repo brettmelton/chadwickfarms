@@ -25,14 +25,12 @@
 
 <!-- announcements -->
 
-<div class="whatsnew">
-
 <h2>Community Board</h2>
-Marika Eve<br>
-Dale Dennie<br>
-Judy Hopkins<br>
-Brett Melton<br>
-Judy Smith<br>
+Marika Eve, <span class="boardtitle">Vice President</span> <br>
+Dale Dennie, <span class="boardtitle">Treasurer</span> <br>
+Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
+Brett Melton, <span class="boardtitle">Secretary</span> <br>
+Judy Smith, <span class="boardtitle">President</span> <br>
 
 <br>
 <br>
@@ -61,8 +59,6 @@ Kirkland, WA 98034 <br>
 <br>
 <br>
 
-
-</div>
 <br>
 <br>
 <!-- END -->
