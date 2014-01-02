@@ -154,6 +154,11 @@ a:hover {
 /*	font: normal 11px/15px verdana, lucida, sans-serif; */
 	color: #000;
 }
+
+.boardtitle {
+    font: 10px/14px "Lucida Grande","Lucida Sans Unicode","verdana","lucida","sans-serif";
+}
+
 .caption {
 	font: normal 9px/14px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
 	color:#707070;
