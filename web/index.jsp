@@ -31,19 +31,28 @@ Dale Dennie, <span class="boardtitle">Treasurer</span> <br>
 Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
 Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a>
 
 <br>
 <br>
 
 <h2>Next Board Meeting</h2>
-Monday, January 27, 2014 7:30 PM<br>
+Monday, March 24, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <br>
 <br>
 
 <h2>Announcements</h2>
-Stay Warm!  &nbsp;&nbsp; Pray for snow<br>
+<u>January 28, 2014</u><br>
+Coming soon: A night-time, motion-sensing light will be installed behind the Mail Room to brighten up the grassy
+area when motion is detected.  This should add a bit of security and safety to what has been historically, a very
+dark area.<br>
+<u>January 18, 2014</u><br>
+You may have noticed the new lighting at the front entrance.  If you see Tom out and about, please be sure to thank
+him for all his effort in getting the materials as well as coordinating the installation of the light.  The LED light
+is currently being powered by the owner of unit 8375 and we are very thankful for their generous agreement to power
+the light.
 
 <br>
 <br>
@@ -84,6 +93,10 @@ minutes drive to Interstate 405.
 At the 2013 annual board meeting, 3 board members stepped down and 3 new board members were appointed to fill those positions.
 The current board members are passionate about serving this community and continuing to make this community one of the
 best places to live in Kirkland.   We would love to hear from you so please let us know your thoughts.
+
+<p>
+
+<img src="/images/cf_signlight.png" width="100%" border="1">
 
 <h2>Neighborhood Watch</h2>
 

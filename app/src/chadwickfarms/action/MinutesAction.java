@@ -45,7 +45,13 @@ public class MinutesAction extends ChadwickFarmsAction
     	String strSurveyId = _request.getParameter("survey_id");
     	String strOptionId = _request.getParameter("question" + strSurveyId);
     	String strUserId = _request.getParameter("user_id");
-    	
+    	String strComments = _request.getParameter("survey_comments");
+    	if( null != strComments )
+    	{
+    		strComments = strComments.trim();
+    		if( strComments.length() > 240 )
+    			strComments = strComments.substring(0, 240);
+    	}
         HttpSession theSession = _request.getSession(true);
         theSession.setAttribute("USERID", strUserId);
         super.assignCookie("USERID", strUserId);
@@ -57,11 +63,12 @@ public class MinutesAction extends ChadwickFarmsAction
     		int iOptionId = Integer.parseInt(strOptionId);
     		
         	SurveyData surveyData = new SurveyData();
-        	surveyData.storeSurveyAnswer( iSurveyId, iOptionId, strUserId, strIpAddress );
+        	surveyData.storeSurveyAnswer( iSurveyId, iOptionId, strUserId, strIpAddress, strComments );
     		
     		_request.setAttribute("the_survey_id", strSurveyId);
     		_request.setAttribute("the_option_id", strOptionId);
     		_request.setAttribute("the_user_id", strUserId);
+    		_request.setAttribute("the_user_comments", strComments);
     	}
     	catch( NumberFormatException nfe )
     	{

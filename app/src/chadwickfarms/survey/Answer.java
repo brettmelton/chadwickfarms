@@ -7,13 +7,15 @@ public class Answer
 	private final String strUserIp;
 	private final String strAnswerDate;
 	private final String strValue;
+	private final String strComments;
 	
-    public Answer(String strUserIdentifier, String strUserIpAddress, String strCreateDate, String strSurveyAnswer)
+    public Answer(String strUserIdentifier, String strUserIpAddress, String strCreateDate, String strSurveyAnswer, String strSurveyComments)
     {
     	this.strUserId = strUserIdentifier;
     	this.strUserIp = strUserIpAddress;
     	this.strAnswerDate = strCreateDate;
     	this.strValue = strSurveyAnswer;
+    	this.strComments = strSurveyComments;
     }
 
 	/**
@@ -42,6 +44,13 @@ public class Answer
 	 */
 	public String getValue() {
 		return strValue;
+	}
+
+	/**
+	 * @return the strComments
+	 */
+	public String getComments() {
+		return strComments;
 	}
 
 }

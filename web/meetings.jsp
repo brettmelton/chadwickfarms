@@ -26,6 +26,7 @@
 <jsp:useBean id="the_survey_id" type="String" class="java.lang.String" scope="request" />
 <jsp:useBean id="the_option_id" type="String" class="java.lang.String" scope="request" />
 <jsp:useBean id="the_user_id" type="String" class="java.lang.String" scope="request" />
+<jsp:useBean id="the_user_comments" type="String" class="java.lang.String" scope="request" />
 
 </head>
 
@@ -55,6 +56,7 @@ and the password will be sent to you.   Please make sure to include your unit nu
 <div id="rightcolumn_home">
 
 <h2>Documents</h2>
+<a href="/documents/cf-hoa-dues.html" target="_blank">2014 HOA Dues</a><br>
 <a href="/documents/bylaws11.pdf" target="_blank">Bylaws Part 1</a><br>
 <a href="/documents/bylaws21.pdf" target="_blank">Bylaws Part 2</a><br>
 <a href="/documents/ChadwickFireplaceLightingInstructions.pdf" target="_blank">Fireplace Lighting</a><br>
@@ -99,7 +101,8 @@ for( int jnx=0; jnx<surveyOptions.size(); ++jnx )
 %>
 
 <br>
-
+<i>comments (optional)</i>
+<textarea name="survey_comments" rows="4" cols="25" scrollbar="true"><%= the_user_comments %></textarea><br>
 <input type="submit" value="Submit" onclick="javascript:alert('Thank you for voting.');" <%= strButtonDisabled %>>
 </form>
 </div>

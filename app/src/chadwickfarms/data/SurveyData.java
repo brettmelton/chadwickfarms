@@ -56,7 +56,7 @@ public class SurveyData extends DataObject
         PreparedStatement pstmt = null;
         ResultSet rs = null;
         StringBuilder sbSql = new StringBuilder();
-        sbSql.append( "SELECT a.user_identifier, b.value, a.user_ip_address, a.create_date " );
+        sbSql.append( "SELECT a.user_identifier, b.value, a.user_ip_address, a.create_date, a.comments " );
         sbSql.append( "FROM survey_answers a, survey_option b " );
         sbSql.append( "WHERE a.survey_id = ? AND a.survey_option_id = b.survey_option_id " );
         sbSql.append( "ORDER BY a.user_identifier, a.create_date desc " );
@@ -74,9 +74,10 @@ public class SurveyData extends DataObject
             	String strSurveyAnswer = rs.getString("value");
             	String strUserIpAddress = rs.getString("user_ip_address");
             	java.sql.Timestamp dateCreated = rs.getTimestamp("create_date");
+            	String strSurveyComments = rs.getString("comments");
             	String strCreateDate = df.format(dateCreated);
             	
-            	answer = new Answer(strUserIdentifier, strUserIpAddress, strCreateDate, strSurveyAnswer);
+            	answer = new Answer(strUserIdentifier, strUserIpAddress, strCreateDate, strSurveyAnswer, strSurveyComments);
             	surveyAnswers.addAnswer(answer);
             }
         }
@@ -97,11 +98,11 @@ public class SurveyData extends DataObject
 
 		return surveyAnswers;
 	}
-	public void storeSurveyAnswer( int iSurveyId, int iOptionId, String strUserId, String strIpAddress )
+	public void storeSurveyAnswer( int iSurveyId, int iOptionId, String strUserId, String strIpAddress, String strComments )
 	{
 		Connection conn = null;
         PreparedStatement pstmt = null;
-        String strSql = "INSERT INTO survey_answers (survey_id, survey_option_id, user_identifier, user_ip_address, create_date) VALUES (?,?,?,?,?)";
+        String strSql = "INSERT INTO survey_answers (survey_id, survey_option_id, user_identifier, user_ip_address, create_date, comments) VALUES (?,?,?,?,?, ?)";
 
         try
         {
@@ -112,6 +113,7 @@ public class SurveyData extends DataObject
             pstmt.setString( 3, strUserId );
             pstmt.setString( 4, strIpAddress );
             pstmt.setTimestamp(5, new java.sql.Timestamp(new Date().getTime()));
+            pstmt.setString( 6, strComments );
             pstmt.execute();            
         }
         catch(SQLException sqlExc)

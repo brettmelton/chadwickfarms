@@ -39,6 +39,8 @@
 
 <h1>Welcome Chadwick Farms Board Member</h1>
 <br><br>
+Plain  text file for all Chadwick Farms Owner Email Addresses.  <a href="/documents/CF-OwnerEmail.txt" target="_blank">Click Here</a> for file download.
+<br><br>
 <h2>Survey Responses</h2>
 <br>
 <%
@@ -55,7 +57,8 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
     <td width="10%" nowrap id="AccessListName" align="center">Unit</td>
     <td width="15%" nowrap id="AccessListName" align="center">IP</td>
     <td width="20%" nowrap id="AccessListName" align="center">Date</td>
-    <td width="55%" nowrap id="AccessListName" align="center">Response</td>
+    <td width="15%" nowrap id="AccessListName" align="center">Response</td>
+    <td width="40%" nowrap id="AccessListName" align="center">Comments</td>
   </tr>
 <%
     ArrayList listAnswers = (ArrayList)surveyAnswers.getAnswers();
@@ -66,6 +69,9 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
 		String strUserIP = answer.getUserIp();
 		String strDate = answer.getAnswerDate();
 		String strValue = answer.getValue();
+		String strComments = answer.getComments();
+		if( null == strComments )
+		    strComments = "";
 		String strRowColor = ( (jnx + 1) % 2 == 0 ? "#FFFFFF" : "#F5FFFA" );
 %>
   <tr bgcolor="<%= strRowColor %>">
@@ -73,6 +79,7 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
     <td nowrap id="AccessListItems" align="center"><%= strUserIP %></td>
     <td nowrap id="AccessListItems" align="center"><%= strDate %></td>
     <td nowrap id="AccessListItems" align="center"><%= strValue %></td>
+    <td id="AccessListItems" align="center"><%= strComments %></td>
   </tr>
 <%
     } // end of for jnx<listAnswer

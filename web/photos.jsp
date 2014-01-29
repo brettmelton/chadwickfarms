@@ -41,6 +41,8 @@
 <br>
 <h3>Fun in the Sun</h3>
 <a href="/images/photos/IMG_0383.jpg" target="_blank"><img src="/images/photos/IMG_0383.jpg" width="320" border="0"></a>
+<h3>Entrance Sign at Night</h3>
+<a href="/images/photos/IMG_1280.jpg" target="_blank"><img src="/images/photos/IMG_1280.jpg" width="320" border="0"></a>
 <br>
 
 </center>
