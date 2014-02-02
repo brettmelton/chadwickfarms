@@ -55,15 +55,28 @@ and the password will be sent to you.   Please make sure to include your unit nu
 
 <div id="rightcolumn_home">
 
+<h2>Helpful Maintenance</h2>
+<a href="/documents/FiresideHomeSolutionsFireplace.pdf" target="_blank">Fireside Home Solutions</a><br>
+<a href="/documents/ChadwickFireplaceLightingInstructions.pdf" target="_blank">Fireplace Lighting</a><br>
+<a href="/documents/WinterStormList.pdf" target="_blank">Winter Storm List</a><br>
+<br><u>Fireplace Repair &amp; Service</u><br>
+B and C Comfort<br>
+21127 164th Drive SE, Monroe 98272<br>
+425-402-4456
+<br> &nbsp; &nbsp; - or - <br>
+Fireside Home Solutions<br>
+13200 NE 20th St, Bellevue 98005<br>
+425-747-3473<br>
+
+<br>
+
 <h2>Documents</h2>
 <a href="/documents/cf-hoa-dues.html" target="_blank">2014 HOA Dues</a><br>
 <a href="/documents/bylaws11.pdf" target="_blank">Bylaws Part 1</a><br>
 <a href="/documents/bylaws21.pdf" target="_blank">Bylaws Part 2</a><br>
-<a href="/documents/ChadwickFireplaceLightingInstructions.pdf" target="_blank">Fireplace Lighting</a><br>
-<a href="/documents/WinterStormList.pdf" target="_blank">Winter Storm List</a><br>
 <a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a><br>
 
-<br><br>
+<br>
 
 <h2>Surveys</h2>
 <i>You must provide your unit number in order for your vote to be saved</i><br><br>
@@ -133,7 +146,10 @@ Unit Number: <input type="text" maxlength="4" size="4"> <br><br>
 <div class="text_left">
 
 <h2>Chadwick's List</h2>
-Okay, not as big as Craigslist but it could be.  Have something to sell or give away.  Let your board know and we'll post it here.  FREE AD SPACE
+Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
+1. Take a photo of your item<br>
+2. Determine a price if applicable<br>
+3. Send the description and photo to the board so that it can be shown. 
 
 <br><br>
 
