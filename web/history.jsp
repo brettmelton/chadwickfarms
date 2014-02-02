@@ -23,8 +23,10 @@
 
 <h2>History Section is Under Construction</h2>
 
-Import historical documents about the area as well as how Chadwick Farms came to be.
-
+If you have any historical documentation that you feel should be shown here, please send it to the board.
+We would love to share the history of our area and development with others.   Whether your information
+is related to the farm that use to be in here, the wetlands and environment, or the development of our
+community, it would be wonderful to share with others.
 </div>
 
 <jsp:include page="/common/layout/page_footer.jsp" flush="true" />	
