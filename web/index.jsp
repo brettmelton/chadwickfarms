@@ -44,8 +44,9 @@ Presbyterian Church<br>
 <br>
 
 <h2>Announcements</h2>
-<u>January 28, 2014</u><br>
-Coming soon: A night-time, motion-sensing light will be installed behind the Mail Room to brighten up the grassy
+<u>February 2, 2014</u><br>
+Superbowl 2014: <font color="#009900">GO</font> <font color="#0000CC">SEAHAWKS!!</font> <br>
+A night-time, motion-sensing light has been installed behind the Mail Room to brighten up the grassy
 area when motion is detected.  This should add a bit of security and safety to what has been historically, a very
 dark area.<br>
 <u>January 18, 2014</u><br>
