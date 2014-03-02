@@ -44,6 +44,11 @@ Presbyterian Church<br>
 <br>
 
 <h2>Announcements</h2>
+<u>March 15, 2014</u><br>
+<b><font color="#990000">ATTENTION</font></b> - There is a required fire sprinkler inspection for units that
+have fire sprinklers.   This inspection will take place on Saturday, March 15 at 10:00 am.   Please be prepared
+to grant access into your unit for this inspection which should only take a few minutes and is required by
+the City of Kirkland.<br>
 <u>February 2, 2014</u><br>
 Superbowl 2014: <font color="#009900">GO</font> <font color="#0000CC">SEAHAWKS!!</font> <br>
 A night-time, motion-sensing light has been installed behind the Mail Room to brighten up the grassy
