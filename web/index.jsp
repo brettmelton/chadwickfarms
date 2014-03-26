@@ -31,19 +31,20 @@ Dale Dennie, <span class="boardtitle">Treasurer</span> <br>
 Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
 Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
-<br>
 <br>
 
 <h2>Next Board Meeting</h2>
-Monday, March 24, 2014 7:30 PM<br>
+Monday, May 19, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <br>
-<br>
 
 <h2>Announcements</h2>
+<u>March 24, 2014</u><br>
+Southern By Design will be our new landscaping company starting April 1. If you have any questions or
+comments about the landscaping service, please let your board know.<br>
 <u>March 15, 2014</u><br>
 <b><font color="#990000">ATTENTION</font></b> - There is a required fire sprinkler inspection for units that
 have fire sprinklers.   This inspection will take place on Saturday, March 15 at 10:00 am.   Please be prepared

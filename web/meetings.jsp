@@ -155,6 +155,17 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 
 <h2>Meeting Minutes Archive</h2>
 
+<a href="/documents/minutes/MeetingMinutes20140127.pdf" target="_blank">January 2014</a><br>
+Primary topics covered:
+<ul>
+<li>New Board Members</li>
+<li>Landscaping</li>
+<li>Chadwick Farms Website</li>
+<li>Community Lighting</li>
+</ul>
+
+<br>
+
 <a href="/documents/minutes/MeetingMinutes201310.pdf" target="_blank">October 2013</a><br>
 Primary topics covered:
 <ul>
