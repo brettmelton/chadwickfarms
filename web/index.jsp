@@ -42,6 +42,10 @@ Presbyterian Church<br>
 <br>
 
 <h2>Announcements</h2>
+<u>April 5, 2014</u><br>
+Grab your gloves and put on your <b><font color="#009900">green thumb</font></b>! From 11:00am - 3:00pm will be Community Volunteer Day to
+remove some of the non-native plants in our area as well as spruce up the front entrance area with
+plants and flowers. Come join us for a fun day of gardening.<br>
 <u>March 24, 2014</u><br>
 Southern By Design will be our new landscaping company starting April 1. If you have any questions or
 comments about the landscaping service, please let your board know.<br>
@@ -123,6 +127,13 @@ as soon as you can will allow for the proper saving of video that may be used fo
 </div>
 
 <jsp:include page="/common/layout/page_footer.jsp" flush="true" />	
-	
+
+
+<script language="javascript">
+<!--
+alert("Community Volunteer Day is April 5th from 11-3pm");
+// -->
+</script>
+
 </body>
 </html>
