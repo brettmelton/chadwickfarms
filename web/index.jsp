@@ -95,11 +95,11 @@ Whether you are looking to start a family, find a relaxing place to retire, or a
 Chadwick Farms accommodates them all.  Our community is close to parks, schools, shopping centers, restaurants, and a few
 minutes drive to Interstate 405.
 
-<h2>Changing the Guard</h2>
+<h2>New Landscaping</h2>
 
-At the 2013 annual board meeting, 3 board members stepped down and 3 new board members were appointed to fill those positions.
-The current board members are passionate about serving this community and continuing to make this community one of the
-best places to live in Kirkland.   We would love to hear from you so please let us know your thoughts.
+Staring April 2014, we will have a new landscaping company. We are excited to have some TLC given to our lawn and plants. The
+new crew is part of a small team and dedicated to making us satisfied customers. If you have any comments or thoughts, please
+let the board know.
 
 <p>
 
