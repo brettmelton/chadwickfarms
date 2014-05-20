@@ -149,11 +149,21 @@ Unit Number: <input type="text" maxlength="4" size="4"> <br><br>
 Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 1. Take a photo of your item<br>
 2. Determine a price if applicable<br>
-3. Send the description and photo to the board so that it can be shown. 
-
-<br><br>
+3. Send the description and photo to the board so that it can be shown.<br>
+<br>
+<br>
 
 <h2>Meeting Minutes Archive</h2>
+
+<a href="/documents/minutes/MeetingMinutes20140324.pdf" target="_blank">March 2014</a><br>
+Primary topics covered:
+<ul>
+<li>Lighting by Mail Room</li>
+<li>New Landscaping Company</li>
+<li>Community Volunteer Day</li>
+</ul>
+
+<br>
 
 <a href="/documents/minutes/MeetingMinutes20140127.pdf" target="_blank">January 2014</a><br>
 Primary topics covered:

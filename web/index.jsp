@@ -36,12 +36,15 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 <br>
 
 <h2>Next Board Meeting</h2>
-Monday, May 19, 2014 7:30 PM<br>
+Monday, July 21, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <br>
 
 <h2>Announcements</h2>
+<u>June 21, 2014</u><br>
+SAVE THE DATE!! June 21st will be the next community volunteer day. Put on those green thumbs and
+help your neighbors remove the non-native plants and spruce up the place.<br>
 <u>March 24, 2014</u><br>
 Southern By Design will be our new landscaping company starting April 1. If you have any questions or
 comments about the landscaping service, please let your board know.<br>
