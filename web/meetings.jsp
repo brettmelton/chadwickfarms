@@ -155,6 +155,16 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 
 <h2>Meeting Minutes Archive</h2>
 
+<a href="/documents/minutes/MeetingMinutes20140519.pdf" target="_blank">May 2014</a><br>
+Primary topics covered:
+<ul>
+<li>Landscaping and Tree Trimming</li>
+<li>Dryer Vent Cleaning</li>
+<li>Mail box door</li>
+</ul>
+
+<br>
+
 <a href="/documents/minutes/MeetingMinutes20140324.pdf" target="_blank">March 2014</a><br>
 Primary topics covered:
 <ul>
