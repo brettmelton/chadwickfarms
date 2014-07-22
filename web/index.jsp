@@ -42,9 +42,14 @@ Presbyterian Church<br>
 <br>
 
 <h2>Announcements</h2>
-<u>June 21, 2014</u><br>
-SAVE THE DATE!! June 21st will be the next community volunteer day. Put on those green thumbs and
-help your neighbors remove the non-native plants and spruce up the place.<br>
+<u>July 21, 2014</u><br>
+<i><font color="#000099">August 11-12, 2014</font></i> Window Washing<br>
+Please remove your own screens if you wish those windows to be washed. If you have a sliding screen door, please
+unlock that screen door so the washers can slide it from the outside.<br>
+<u>June 25, 2014</u><br>
+<i><font color="#000099">July 7, 2014</font></i> Dryer Vent Cleaning<br>
+<i><font color="#000099">July 11, 2014</font></i> Tree Trimming<br>
+<i><font color="#000099">Aug 2, 2014</font></i> Community Event<br>
 <u>March 24, 2014</u><br>
 Southern By Design will be our new landscaping company starting April 1. If you have any questions or
 comments about the landscaping service, please let your board know.<br>
