@@ -155,6 +155,17 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 
 <h2>Meeting Minutes Archive</h2>
 
+<a href="/documents/minutes/MeetingMinutes20140721.pdf" target="_blank">July 2014</a><br>
+Primary topics covered:
+<ul>
+<li>Vent and Window Cleaning</li>
+<li>Curb Paint</li>
+<li>Pest Issues and Leaking Faucet</li>
+<li>CCR Review and Revision</li>
+</ul>
+
+<br>
+
 <a href="/documents/minutes/MeetingMinutes20140519.pdf" target="_blank">May 2014</a><br>
 Primary topics covered:
 <ul>
