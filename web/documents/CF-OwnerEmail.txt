@@ -1,7 +1,7 @@
 8302 - George Dart <george@net-tech.com>,
 8304 - Alex Hopkins <ach419@mindspring.com>,
 8304 - Julie.Hopkins <Julie.Hopkins@mercer.com>,
-8306 - Brad Worthley <bradworthley@msn.com>,
+
 8308 - Gary Salsman <gary.salsman@earthsolutionsnw.com>,
 8309 - Casey Hulbert <goffries1@gmail.com>,
 8310 - Ian Bernard <IanB@veristonecapital.com>,
