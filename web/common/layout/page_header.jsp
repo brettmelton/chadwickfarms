@@ -19,16 +19,16 @@
 <div id="rtshadow">
 <div id="wrapper">
 
-<div id="headerlinks">
+<nav id="headerlinks">
 Requires authentication:&nbsp;
 <a href="/m" class=<%= "Minutes".equals(curpage) ? "navon" : "nav" %>>Resident Information</a>
-</div>
+</nav>
 
 <div class="header">
 &nbsp;
 </div>
 
-<div id="nav">
+<nav id="nav">
 <a href="/" class='<%= "Home".equals(curpage) ? "navon" : "nav" %>'>Home</a>
 <span class="spacer">|</span>
 <a href="/d" class=<%= "Directions".equals(curpage) ? "navon" : "nav" %>>Directions</a>
@@ -38,6 +38,6 @@ Requires authentication:&nbsp;
 <a href="/p" class=<%= "Photos".equals(curpage) ? "navon" : "nav" %>>Photos</a>
 <span class="spacer">|</span>
 <a href="/c" class=<%= "Contact".equals(curpage) ? "navon" : "nav" %>>Contact Us</a>
-</div>
+</nav>
 
 <!-- END page_header.jsp -->
