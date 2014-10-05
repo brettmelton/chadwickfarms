@@ -9,6 +9,9 @@
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, kirkland, townhouse, community">
+<style type="text/css">
+p:first-letter { color: #006600; font-size:16px; }
+</style>
 </head>
 
 <body>
@@ -36,7 +39,7 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 <br>
 
 <h2>Next Board Meeting</h2>
-Monday, July 21, 2014 7:30 PM<br>
+Monday, Nov. 24, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <br>
@@ -98,33 +101,30 @@ Kirkland, WA 98034 <br>
 
 <h2>Our Community</h2>
 
-Located near Big Finn Hill Park in north Kirkland, Chadwick Farms is a quiet and family friendly townhouse community of 36 units.
+<p>Located near Big Finn Hill Park in north Kirkland, Chadwick Farms is a quiet and family friendly townhouse community of 36 units.
 Whether you are looking to start a family, find a relaxing place to retire, or a college student at Bastyr or UW Bothell,
 Chadwick Farms accommodates them all.  Our community is close to parks, schools, shopping centers, restaurants, and a few
-minutes drive to Interstate 405.
+minutes drive to Interstate 405.</p>
 
 <h2>New Landscaping</h2>
 
-Staring April 2014, we will have a new landscaping company. We are excited to have some TLC given to our lawn and plants. The
+<p>Staring April 2014, we will have a new landscaping company. We are excited to have some TLC given to our lawn and plants. The
 new crew is part of a small team and dedicated to making us satisfied customers. If you have any comments or thoughts, please
 let the board know.
 
-<p>
-
 <img src="/images/cf_signlight.png" width="100%" border="1">
+</p>
 
 <h2>Neighborhood Watch</h2>
 
-One of the most neighborly things you can do for those living nearest you is to watch out over our community.
+<p>One of the most neighborly things you can do for those living nearest you is to watch out over our community.
 Nobody is going to expect you to put on a trench coat and patrol the streets, but being alert and cautious
-can save another from being a victim of a crime.
+can save another from being a victim of a crime.</p>
 <h3>What can you do?</h3>
-The Board of Directors would like for you to contact the police department, the board members, and our property management
+<p>The Board of Directors would like for you to contact the police department, the board members, and our property management
 if you witness or experience a crime.   If you are suspicious about a certain individual, please contact the board members
 immediately.  Our community does have limited video surveillance with a short window of dvr recording.   Informing the board
-as soon as you can will allow for the proper saving of video that may be used for law enforcement.
-
-<p>
+as soon as you can will allow for the proper saving of video that may be used for law enforcement.</p>
 
 </div>
 <!-- END Primary Content -->
