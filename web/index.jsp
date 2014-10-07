@@ -36,13 +36,12 @@ Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
-<br>
-
 <h2>Next Board Meeting</h2>
 Monday, Nov. 24, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
-<br>
+<h2>Attention</h2>
+Please note that the speed limit in our community is 5 mph.
 
 <h2>Announcements</h2>
 <u>July 21, 2014</u><br>
@@ -56,21 +55,6 @@ unlock that screen door so the washers can slide it from the outside.<br>
 <u>March 24, 2014</u><br>
 Southern By Design will be our new landscaping company starting April 1. If you have any questions or
 comments about the landscaping service, please let your board know.<br>
-<u>March 15, 2014</u><br>
-<b><font color="#990000">ATTENTION</font></b> - There is a required fire sprinkler inspection for units that
-have fire sprinklers.   This inspection will take place on Saturday, March 15 at 10:00 am.   Please be prepared
-to grant access into your unit for this inspection which should only take a few minutes and is required by
-the City of Kirkland.<br>
-<u>February 2, 2014</u><br>
-Superbowl 2014: <font color="#009900">GO</font> <font color="#0000CC">SEAHAWKS!!</font> <br>
-A night-time, motion-sensing light has been installed behind the Mail Room to brighten up the grassy
-area when motion is detected.  This should add a bit of security and safety to what has been historically, a very
-dark area.<br>
-<u>January 18, 2014</u><br>
-You may have noticed the new lighting at the front entrance.  If you see Tom out and about, please be sure to thank
-him for all his effort in getting the materials as well as coordinating the installation of the light.  The LED light
-is currently being powered by the owner of unit 8375 and we are very thankful for their generous agreement to power
-the light.
 
 <br>
 <br>
@@ -106,25 +90,19 @@ Whether you are looking to start a family, find a relaxing place to retire, or a
 Chadwick Farms accommodates them all.  Our community is close to parks, schools, shopping centers, restaurants, and a few
 minutes drive to Interstate 405.</p>
 
-<h2>New Landscaping</h2>
-
-<p>Staring April 2014, we will have a new landscaping company. We are excited to have some TLC given to our lawn and plants. The
-new crew is part of a small team and dedicated to making us satisfied customers. If you have any comments or thoughts, please
-let the board know.
+<h2>Neighborhood Watch</h2>
 
 <img src="/images/cf_signlight.png" width="100%" border="1">
-</p>
-
-<h2>Neighborhood Watch</h2>
 
 <p>One of the most neighborly things you can do for those living nearest you is to watch out over our community.
 Nobody is going to expect you to put on a trench coat and patrol the streets, but being alert and cautious
 can save another from being a victim of a crime.</p>
 <h3>What can you do?</h3>
 <p>The Board of Directors would like for you to contact the police department, the board members, and our property management
-if you witness or experience a crime.   If you are suspicious about a certain individual, please contact the board members
-immediately.  Our community does have limited video surveillance with a short window of dvr recording.   Informing the board
-as soon as you can will allow for the proper saving of video that may be used for law enforcement.</p>
+if you witness or experience a crime.   If you are suspicious about a certain behavior, please call the police immediately.
+The police will come out to investigate the concern. After you first contact the police, please contact the board members
+so the board can track the reports.  Our community does have limited video surveillance with a short window of dvr recording.
+Informing the board as soon as you can will allow for the proper saving of video that may be used for law enforcement.</p>
 
 </div>
 <!-- END Primary Content -->
