@@ -24,7 +24,7 @@ Requires authentication:&nbsp;
 <a href="/m" class=<%= "Minutes".equals(curpage) ? "navon" : "nav" %>>Resident Information</a>
 </nav>
 
-<div class="header">
+<div id="header">
 &nbsp;
 </div>
 

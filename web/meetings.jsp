@@ -28,6 +28,9 @@
 <jsp:useBean id="the_user_id" type="String" class="java.lang.String" scope="request" />
 <jsp:useBean id="the_user_comments" type="String" class="java.lang.String" scope="request" />
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/inc/js/chadwickfarms.js"></script>
+
 </head>
 
 <body>
@@ -72,9 +75,10 @@ Fireside Home Solutions<br>
 
 <h2>Documents</h2>
 <a href="/documents/cf-hoa-dues.html" target="_blank">2014 HOA Dues</a><br>
-<a href="/documents/bylaws11.pdf" target="_blank">Bylaws Part 1</a><br>
-<a href="/documents/bylaws21.pdf" target="_blank">Bylaws Part 2</a><br>
+<a href="/documents/ChadwickFarmsBylaws.pdf" target="_blank">Community Bylaws</a><br>
 <a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a><br>
+<a href="/documents/dfdec11.pdf" target="_blank">Community Declaration Part I</a><br>
+<a href="/documents/dfdec21.pdf" target="_blank">Community Declaration Part II</a><br>
 
 <br>
 

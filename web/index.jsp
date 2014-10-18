@@ -9,9 +9,14 @@
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, kirkland, townhouse, community">
+
 <style type="text/css">
 p:first-letter { color: #006600; font-size:16px; }
 </style>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/inc/js/chadwickfarms.js"></script>
+
 </head>
 
 <body>

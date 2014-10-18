@@ -25,6 +25,9 @@
 <!-- jsp useBeans -->
 <jsp:useBean id="the_survey_answers" type="ArrayList" class="java.util.ArrayList" scope="request"/>
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/inc/js/chadwickfarms.js"></script>
+<script src="/inc/js/cf_board.js"></script>
 
 </head>
 
@@ -52,14 +55,17 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
 	String strHeaderRowColor = surveyAnswers.isActive() ? "#FFFFE0" : "#FCB8B8";
 %>
 <b><%= strSurveyName %>:</b> <i><%= strSurveyQuestion %></i><br>
-<table bgcolor="#000000" cellspacing="1" border="0" width="100%">
+<table class="surveyresults" bgcolor="#000000" cellspacing="1" border="0" width="100%">
+ <thead>
   <tr bgcolor="<%= strHeaderRowColor %>">
-    <td width="10%" nowrap id="AccessListName" align="center">Unit</td>
-    <td width="15%" nowrap id="AccessListName" align="center">IP</td>
-    <td width="20%" nowrap id="AccessListName" align="center">Date</td>
-    <td width="15%" nowrap id="AccessListName" align="center">Response</td>
-    <td width="40%" nowrap id="AccessListName" align="center">Comments</td>
+    <td width="10%" nowrap class="AccessListName" align="center">Unit</td>
+    <td width="15%" nowrap class="AccessListName" align="center">IP</td>
+    <td width="20%" nowrap class="AccessListName" align="center">Date</td>
+    <td width="15%" nowrap class="AccessListName" align="center">Response</td>
+    <td width="40%" nowrap class="AccessListName" align="center">Comments</td>
   </tr>
+ </thead>
+ <tbody>
 <%
     ArrayList listAnswers = (ArrayList)surveyAnswers.getAnswers();
     for( int jnx=0; jnx<listAnswers.size(); ++jnx )
@@ -72,19 +78,18 @@ for( int inx=0; inx<the_survey_answers.size(); ++inx )
 		String strComments = answer.getComments();
 		if( null == strComments )
 		    strComments = "";
-		String strRowColor = ( (jnx + 1) % 2 == 0 ? "#FFFFFF" : "#F5FFFA" );
 %>
-  <tr bgcolor="<%= strRowColor %>">
-    <td nowrap id="AccessListItems" align="center"><%= strUnit %></td>
-    <td nowrap id="AccessListItems" align="center"><%= strUserIP %></td>
-    <td nowrap id="AccessListItems" align="center"><%= strDate %></td>
-    <td nowrap id="AccessListItems" align="center"><%= strValue %></td>
-    <td id="AccessListItems" align="center"><%= strComments %></td>
+  <tr>
+    <td nowrap align="center"><%= strUnit %></td>
+    <td nowrap align="center"><%= strUserIP %></td>
+    <td nowrap align="center"><%= strDate %></td>
+    <td nowrap align="center"><%= strValue %></td>
+    <td align="center"><%= strComments %></td>
   </tr>
 <%
     } // end of for jnx<listAnswer
 %>  
-
+ </tbody>
 </table>
 <br><br>
 <%	

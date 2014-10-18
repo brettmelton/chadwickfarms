@@ -14,6 +14,9 @@
 <%@ page import="java.util.Iterator" %>
 <%@ page import="chadwickfarms.util.DateWrapper" %>
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/inc/js/chadwickfarms.js"></script>
+
 </head>
 
 <body>

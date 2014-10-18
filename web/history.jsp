@@ -10,6 +10,9 @@
 <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/inc/js/chadwickfarms.js"></script>
+
 </head>
 
 <body>
