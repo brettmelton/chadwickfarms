@@ -1,5 +1,22 @@
 
 $(document).ready(function() { 
-    $('#header').fadeIn(2000);
+
+  // Header Image
+  $('#header').fadeIn(2000);
+
+  // Navigation
+  $('nav a.nav').hover(function(){
+    $(this).animate({
+      fontSize: '+=2px'
+    }, 500);
+  }, function(){
+    $(this).animate({
+      fontSize: '-=2px'
+    }, 500);
+  });
+  
+  // Index Page
+  $('#Attention').animate({'backgroundColor':'#FF9999'}, 3000);
+  
 });
     
