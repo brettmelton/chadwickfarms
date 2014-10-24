@@ -45,8 +45,10 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 Monday, Nov. 24, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
+<div id="Attention">
 <h2>Attention</h2>
 Please note that the speed limit in our community is 5 mph.
+</div>
 
 <h2>Announcements</h2>
 <u>July 21, 2014</u><br>
