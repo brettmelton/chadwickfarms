@@ -57,6 +57,22 @@ body {
 	margin: 30px 30px 30px 45px;
 }
 
+#Attention {
+    background: white;
+    -webkit-animation: myfirst 5s; /* Chrome, Safari, Opera */
+    animation: myfirst 5s;
+}
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    from {background: white;}
+    to {background: red;}
+}
+/* Standard syntax */
+@keyframes myfirst {
+    from {background: white;}
+    to {background: red;}
+}
+
 /* ---------------------------------------IE hack for underline */
 a.imagelink:hover {
 	text-decoration: none;
@@ -119,9 +135,10 @@ a:hover {
 	width: 800px;
 
 .AccessListTitle { font-weight:bold; }
-.AccessListItemsEven { background-color : #FFFFFF; color: #006600; }
-.AccessListItemsOdd { background-color : #F5FFFA; color: #003300; }
+.AccessListItemsEven { background-color : #DDDDDD; color: #003300; }
+.AccessListItemsOdd { background-color : #FFFFFF; color: #003300; }
 .AccessListName { color:#0000FF; }
+.AccessListItemsHover { background-color : #FF9999; }
 
 .copyright {
 	font: normal 9px/14px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
@@ -153,6 +170,7 @@ ol {
 	height: 24px;
 	text-align: right;
 	padding-right: 20px;
+	vertical-align: middle;
 }
 
 a.nav, a.nav:visited
