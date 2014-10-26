@@ -16,7 +16,10 @@ $(document).ready(function() {
   });
   
   // Index Page
-  $('#Attention').animate({'backgroundColor':'#FF9999'}, 3000);
+  $('#Attention')
+    .animate({'backgroundColor':'#FF9999'}, 3000)
+    .delay(2000)
+    .animate({'backgroundColor':'#FFFFFF'}, 3000);
   
 });
     

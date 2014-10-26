@@ -4,6 +4,7 @@
 <head>
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
+<link href="/inc/css/announcements.css" rel="stylesheet" type="text/css">
 
 <META HTTP-EQUIV="Expires" CONTENT="0"/>
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
@@ -15,7 +16,9 @@ p:first-letter { color: #006600; font-size:16px; }
 </style>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
+<script src="/inc/js/cf_announcements.js"></script>
 
 </head>
 
@@ -50,18 +53,55 @@ Presbyterian Church<br>
 Please note that the speed limit in our community is 5 mph.
 </div>
 
+<section id="announcments">
 <h2>Announcements</h2>
-<u>July 21, 2014</u><br>
+
+<h3>October 25, 2014</h3>
+<div>
+SAVE THE DATE! <br><time datetime="2014-12-08 19:30">Monday, December 8, 2014 at 7:30pm</time> will be the next
+annual meeting of the Chadwick Farms HOA. This will be held at Inglewood Presbyterian Church. The board urges
+you to attend this important meeting.
+</div>
+<h3>July 21, 2014</h3>
+<div>
 <i><font color="#000099">August 11-12, 2014</font></i> Window Washing<br>
 Please remove your own screens if you wish those windows to be washed. If you have a sliding screen door, please
 unlock that screen door so the washers can slide it from the outside.<br>
-<u>June 25, 2014</u><br>
+</div>
+<h3>June 25, 2014</h3>
+<div>
 <i><font color="#000099">July 7, 2014</font></i> Dryer Vent Cleaning<br>
 <i><font color="#000099">July 11, 2014</font></i> Tree Trimming<br>
 <i><font color="#000099">Aug 2, 2014</font></i> Community Event<br>
-<u>March 24, 2014</u><br>
+</div>
+<h3>March 24, 2014</h3>
+<div>
 Southern By Design will be our new landscaping company starting April 1. If you have any questions or
 comments about the landscaping service, please let your board know.<br>
+</div>
+<h3>March 15, 2014</h3>
+<div>
+<b><font color="#990000">ATTENTION</font></b> - There is a required fire sprinkler inspection for units that
+have fire sprinklers.   This inspection will take place on Saturday, March 15 at 10:00 am.   Please be prepared
+to grant access into your unit for this inspection which should only take a few minutes and is required by
+the City of Kirkland.<br>
+</div>
+<h3>February 2, 2014</h3>
+<div>
+Superbowl 2014: <font color="#009900">GO</font> <font color="#0000CC">SEAHAWKS!!</font> <br>
+A night-time, motion-sensing light has been installed behind the Mail Room to brighten up the grassy
+area when motion is detected.  This should add a bit of security and safety to what has been historically, a very
+dark area.<br>
+</div>
+<h3>January 18, 2014</h3>
+<div>
+You may have noticed the new lighting at the front entrance.  If you see Tom out and about, please be sure to thank
+him for all his effort in getting the materials as well as coordinating the installation of the light.  The LED light
+is currently being powered by the owner of unit 8375 and we are very thankful for their generous agreement to power
+the light.
+</div>
+
+</section>
 
 <br>
 <br>

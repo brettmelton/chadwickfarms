@@ -4,6 +4,7 @@
 <head>
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
+<link href="/inc/css/minutes.css" rel="stylesheet" type="text/css">
 
 <META HTTP-EQUIV="Expires" CONTENT="0"/>
 <META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
@@ -29,7 +30,9 @@
 <jsp:useBean id="the_user_comments" type="String" class="java.lang.String" scope="request" />
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
+<script src="/inc/js/cf_meetings.js"></script>
 
 </head>
 
@@ -157,9 +160,14 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 <br>
 <br>
 
+<section id="minutes">
+
 <h2>Meeting Minutes Archive</h2>
 
-<a href="/documents/minutes/MeetingMinutes20140721.pdf" target="_blank">July 2014</a><br>
+<h3>July 2014</h3>
+<div>
+<br>
+<a href="/documents/minutes/MeetingMinutes20140721.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Vent and Window Cleaning</li>
@@ -167,30 +175,33 @@ Primary topics covered:
 <li>Pest Issues and Leaking Faucet</li>
 <li>CCR Review and Revision</li>
 </ul>
-
+</div>
+<h3>May 2014</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes20140519.pdf" target="_blank">May 2014</a><br>
+<a href="/documents/minutes/MeetingMinutes20140519.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Landscaping and Tree Trimming</li>
 <li>Dryer Vent Cleaning</li>
 <li>Mail box door</li>
 </ul>
-
+</div>
+<h3>March 2014</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes20140324.pdf" target="_blank">March 2014</a><br>
+<a href="/documents/minutes/MeetingMinutes20140324.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Lighting by Mail Room</li>
 <li>New Landscaping Company</li>
 <li>Community Volunteer Day</li>
 </ul>
-
+</div>
+<h3>January 2014</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes20140127.pdf" target="_blank">January 2014</a><br>
+<a href="/documents/minutes/MeetingMinutes20140127.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>New Board Members</li>
@@ -198,10 +209,11 @@ Primary topics covered:
 <li>Chadwick Farms Website</li>
 <li>Community Lighting</li>
 </ul>
-
+</div>
+<h3>October 2013</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes201310.pdf" target="_blank">October 2013</a><br>
+<a href="/documents/minutes/MeetingMinutes201310.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Potential Projects for 2014 and beyond</li>
@@ -210,10 +222,11 @@ Primary topics covered:
 <li>Sump Pump Noise Fix</li>
 <li>Gutters</li>
 </ul>
-
+</div>
+<h3>August 2013</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes201308.pdf" target="_blank">August 2013</a><br>
+<a href="/documents/minutes/MeetingMinutes201308.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Release of Lien document</li>
@@ -222,10 +235,11 @@ Primary topics covered:
 <li>Asphalt seal-coated and re-striped</li>
 <li>Roof leak in unit 8327</li>
 </ul>
-
+</div>
+<h3>June 25, 2013</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes20130625.pdf" target="_blank">June, 25 2013</a><br>
+<a href="/documents/minutes/MeetingMinutes20130625.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 This meeting included invited guests: Dan Zimberhoff, Ralph Allen, and Russ Cole<br>
 Primary topics covered:
 <ul>
@@ -233,16 +247,19 @@ Primary topics covered:
 <li>Front door painting</li>
 <li>Removal of lien</li>
 </ul>
-
+</div>
+<h3>June 03, 2013</h3>
+<div>
 <br>
-
-<a href="/documents/minutes/MeetingMinutes20130603.pdf" target="_blank">June, 03 2013</a><br>
+<a href="/documents/minutes/MeetingMinutes20130603.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
 <li>Audit review</li>
 <li>Construction updates</li>
 <li>Cascade Pest Control</li>
 </ul>
+</div>
+</section>
 
 <br><br><br>
 </div>
