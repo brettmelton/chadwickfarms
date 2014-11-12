@@ -12,13 +12,13 @@
 <META NAME="keywords" CONTENT="chadwick farms, kirkland, townhouse, community">
 
 <style type="text/css">
-p:first-letter { color: #006600; font-size:16px; }
+p:first-letter { font-size: 120%; }
 </style>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
-<script src="/inc/js/cf_announcements.js"></script>
+<script src="/inc/js/cf_home.js"></script>
 
 </head>
 
@@ -45,7 +45,7 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
-Monday, Nov. 24, 2014 7:30 PM<br>
+Monday, Nov. 17, 2014 7:30 PM<br>
 Presbyterian Church<br>
 
 <div id="Attention">
@@ -56,6 +56,12 @@ Please note that the speed limit in our community is 5 mph.
 <section id="announcments">
 <h2>Announcements</h2>
 
+<h3>November 7, 2014</h3>
+<div>
+Gutter and downspout cleaning will happen on <time datetime="2014-11-10 12:00">Monday, November 10</time> and
+<time datetime="2014-11-11 12:00">Tuesday, November 11</time>. Please expect a work crew with ladders around
+your unit performing this needed effort.
+</div>
 <h3>October 25, 2014</h3>
 <div>
 SAVE THE DATE! <br><time datetime="2014-12-08 19:30">Monday, December 8, 2014 at 7:30pm</time> will be the next
