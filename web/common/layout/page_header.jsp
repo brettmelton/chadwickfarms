@@ -15,17 +15,26 @@
     	strFirstName = chadwickfarms.action.ChadwickFarmsAction.getCookieValue( request, "name" );
 	}
 %>
+<link href="/inc/css/entranceview.css" rel="stylesheet" type="text/css">
+
 <div id="ltshadow">
 <div id="rtshadow">
 <div id="wrapper">
 
+<div id="headerlinksnav">
 <nav id="headerlinks">
 Requires authentication:&nbsp;
 <a href="/m" class=<%= "Minutes".equals(curpage) ? "navon" : "nav" %>>Resident Information</a>
 </nav>
+</div>
 
-<div id="header">
-&nbsp;
+<div id="headertransition" class="view view-cfimage">
+  <img src="/images/cf_entrance.png" height="280px" width="800px" />
+  <div class="mask">
+    <h2>Chadwick Farms</h2>
+    <p>A wonderful townhouse community of 36 units located in north Kirkland.</p>
+    <a href="/p" class="info">Pictures</a>
+  </div>
 </div>
 
 <!--[if lte IE 8]>
@@ -34,7 +43,7 @@ Requires authentication:&nbsp;
 </script>
 <![endif]-->
 
-
+<div id="menulinksnav">
 <nav id="nav">
 <a href="/" class='<%= "Home".equals(curpage) ? "navon" : "nav" %>'>Home</a>
 <span class="spacer">|</span>
@@ -46,5 +55,8 @@ Requires authentication:&nbsp;
 <span class="spacer">|</span>
 <a href="/c" class=<%= "Contact".equals(curpage) ? "navon" : "nav" %>>Contact Us</a>
 </nav>
+</div>
 
+<p>&nbsp;
+<p>
 <!-- END page_header.jsp -->
