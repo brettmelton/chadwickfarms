@@ -45,8 +45,8 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
-Monday, Nov. 17, 2014 7:30 PM<br>
-Presbyterian Church<br>
+Monday, January 12, 2015 7:30 PM<br>
+Inglewood Presbyterian Church<br>
 
 <div id="Attention">
 <h2>Attention</h2>
