@@ -163,7 +163,39 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 <section id="minutes">
 
 <h2>Meeting Minutes Archive</h2>
-
+<h3>2013 Annual Meeting</h3>
+<div>
+<br>
+<a href="/documents/minutes/MeetingMinutesAnnual201312.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Budget Ratification</li>
+<li>Board Membership</li>
+<li>Special Announcements</li>
+</ul>
+</div>
+<h3>November 2014</h3>
+<div>
+<br>
+<a href="/documents/minutes/MeetingMinutes20141117.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Gutter Cleaning</li>
+<li>Landscape Winteriation</li>
+<li>Leaking Roof and Vent Issue</li>
+</ul>
+</div>
+<h3>September 2014</h3>
+<div>
+<br>
+<a href="/documents/minutes/MeetingMinutes20140922.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Various Projects Completed</li>
+<li>Speed Bump</li>
+<li>Annual Meeting Scheduled</li>
+</ul>
+</div>
 <h3>July 2014</h3>
 <div>
 <br>
