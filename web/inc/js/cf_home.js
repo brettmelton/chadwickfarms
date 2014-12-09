@@ -11,11 +11,12 @@ $(document).ready(function(){
   });  
 
   $('#Attention')
-    .animate({'backgroundColor':'#FF9999'}, 1000)
+    .delay(2000)
+    .animate({'backgroundColor':'#FF9999'}, 750)
     .delay(250)
-    .animate({'backgroundColor':'#FFFFFF'}, 1000)
-    .effect('shake', {times:3}, 500)
-    .delay(500)
-    .hide('explode', {}, 1000)
-    .show('bounce', {}, 1000);
+    .animate({'backgroundColor':'#FFFFFF'}, 750)
+    .delay(1000)
+    .animate({'backgroundColor':'#FF9999'}, 750)
+    .delay(250)
+    .animate({'backgroundColor':'#FFFFFF'}, 750);
 });
