@@ -36,12 +36,21 @@ p:first-letter { font-size: 120%; }
 
 <!-- announcements -->
 
+<!--
 <h2>Community Board</h2>
 Marika Eve, <span class="boardtitle">Vice President</span> <br>
 Dale Dennie, <span class="boardtitle">Treasurer</span> <br>
 Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
 Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
+-->
+
+<h2>2015 Board</h2>
+Marika Eve<br>
+Keith Frikken<br>
+Julie Hopkins<br>
+Brett Melton<br>
+Judy Smith<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
