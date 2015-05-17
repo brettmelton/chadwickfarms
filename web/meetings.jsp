@@ -163,9 +163,27 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 <section id="minutes">
 
 <h2>Meeting Minutes Archive</h2>
+<h3>March 2015</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutes20150309.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Fire and Sprinkler Testing</li>
+<li>Window Cleaning</li>
+<li>Wetland Tree trimming & removal</li>
+</ul>
+</div>
+<h3>January 2015</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutes20150112.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Board positions and terms announced</li>
+<li>Leaking Roof and Vent Issue</li>
+</ul>
+</div>
 <h3>2013 Annual Meeting</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutesAnnual201312.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -176,7 +194,6 @@ Primary topics covered:
 </div>
 <h3>November 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20141117.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -187,7 +204,6 @@ Primary topics covered:
 </div>
 <h3>September 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20140922.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -198,7 +214,6 @@ Primary topics covered:
 </div>
 <h3>July 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20140721.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -210,7 +225,6 @@ Primary topics covered:
 </div>
 <h3>May 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20140519.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -221,7 +235,6 @@ Primary topics covered:
 </div>
 <h3>March 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20140324.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -232,7 +245,6 @@ Primary topics covered:
 </div>
 <h3>January 2014</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20140127.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -244,7 +256,6 @@ Primary topics covered:
 </div>
 <h3>October 2013</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes201310.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -257,7 +268,6 @@ Primary topics covered:
 </div>
 <h3>August 2013</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes201308.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
@@ -270,7 +280,6 @@ Primary topics covered:
 </div>
 <h3>June 25, 2013</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20130625.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 This meeting included invited guests: Dan Zimberhoff, Ralph Allen, and Russ Cole<br>
 Primary topics covered:
@@ -282,7 +291,6 @@ Primary topics covered:
 </div>
 <h3>June 03, 2013</h3>
 <div>
-<br>
 <a href="/documents/minutes/MeetingMinutes20130603.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
 Primary topics covered:
 <ul>
