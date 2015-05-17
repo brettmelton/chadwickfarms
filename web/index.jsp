@@ -36,26 +36,17 @@ p:first-letter { font-size: 120%; }
 
 <!-- announcements -->
 
-<!--
 <h2>Community Board</h2>
 Marika Eve, <span class="boardtitle">Vice President</span> <br>
-Dale Dennie, <span class="boardtitle">Treasurer</span> <br>
+Keith Frikken, <span class="boardtitle">Treasurer</span> <br>
 Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
 Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
--->
-
-<h2>2015 Board</h2>
-Marika Eve<br>
-Keith Frikken<br>
-Julie Hopkins<br>
-Brett Melton<br>
-Judy Smith<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
-Monday, January 12, 2015 7:30 PM<br>
-Inglewood Presbyterian Church<br>
+Monday, July 20, 2015 7:30 PM<br>
+Grass area behind Mail Boxes<br>
 
 <div id="Attention">
 <h2>Attention</h2>
@@ -143,7 +134,12 @@ Kirkland, WA 98034 <br>
 <div class="text">
 <h1>Welcome to chadwickfarms.net</h1>
 
+<h1>GO HAWKS!!</h1>
+<img src="/images/cf_gohawks.png" width="100%" border="1" style="border-color:#4EAE47 #4785F8; border-image:none; border-radius: 0 0 0 0; -moz-border-radius:0 0 0 0; -webkit-border-radius:0 0 0 0; border-style:solid; border-width:8px;">
+<p>
+<!--
 <img src="/images/cf_funinsun.png" width="100%" border="1">
+-->
 
 <h2>Our Community</h2>
 
