@@ -78,11 +78,10 @@ Fireside Home Solutions<br>
 
 <h2>Documents</h2>
 <a href="/documents/cf-hoa-dues.html" target="_blank">2015 HOA Dues</a><br>
-<a href="/documents/ChadwickFarmsBylaws.pdf" target="_blank">Community Bylaws</a><br>
+<a href="/documents/CFMoveInProtocol.pdf" target="_blank">Move In Protocol</a><br>
+<a href="/documents/CF-RulesRegs.pdf" target="_blank">Community Rules &amp; Regulations</a><br>
+<a href="/documents/CF-Declaration.pdf" target="_blank">Community Declaration</a><br>
 <a href="/documents/BoardMemberToolKit.pdf" target="_blank">Board Member tool kit</a><br>
-<a href="/documents/dfdec11.pdf" target="_blank">Community Declaration Part I</a><br>
-<a href="/documents/dfdec21.pdf" target="_blank">Community Declaration Part II</a><br>
-
 <br>
 
 <h2>Surveys</h2>
