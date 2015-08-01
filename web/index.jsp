@@ -45,8 +45,8 @@ Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
-Monday, July 20, 2015 7:30 PM<br>
-Grass area behind Mail Boxes<br>
+Monday, Sept. 21, 2015 7:30 PM<br>
+Inglewood Presbyterian Church<br>
 
 <div id="Attention">
 <h2>Attention</h2>
@@ -56,6 +56,13 @@ Please note that the speed limit in our community is 5 mph.
 <section id="announcments">
 <h2>Announcements</h2>
 
+<h3>July 26, 2015</h3>
+<div>
+<a href="/i"><img src="/images/prepare/Prepare_Sept.png" width="200px"></a><br>
+A new section to this website has been added. You can click the menu item Prepare to learn important ways
+that you can prepare yourself and your loved ones in the event of an earthquake, volcanic eruption or other
+disaster.
+</div>
 <h3>November 7, 2014</h3>
 <div>
 Gutter and downspout cleaning will happen on <time datetime="2014-11-10 12:00">Monday, November 10</time> and
@@ -134,12 +141,7 @@ Kirkland, WA 98034 <br>
 <div class="text">
 <h1>Welcome to chadwickfarms.net</h1>
 
-<h1>GO HAWKS!!</h1>
-<img src="/images/cf_gohawks.png" width="100%" border="1" style="border-color:#4EAE47 #4785F8; border-image:none; border-radius: 0 0 0 0; -moz-border-radius:0 0 0 0; -webkit-border-radius:0 0 0 0; border-style:solid; border-width:8px;">
-<p>
-<!--
 <img src="/images/cf_funinsun.png" width="100%" border="1">
--->
 
 <h2>Our Community</h2>
 
@@ -161,6 +163,9 @@ if you witness or experience a crime.   If you are suspicious about a certain be
 The police will come out to investigate the concern. After you first contact the police, please contact the board members
 so the board can track the reports.  Our community does have limited video surveillance with a short window of dvr recording.
 Informing the board as soon as you can will allow for the proper saving of video that may be used for law enforcement.</p>
+<p>
+
+<a class="twitter-timeline" href="https://twitter.com/kirklandgov" data-widget-id="626936078209937408">Tweets by @kirklandgov</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 </div>
 <!-- END Primary Content -->

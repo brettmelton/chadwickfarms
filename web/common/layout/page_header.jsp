@@ -49,7 +49,7 @@ Requires authentication:&nbsp;
 <span class="spacer">|</span>
 <a href="/d" class=<%= "Directions".equals(curpage) ? "navon" : "nav" %>>Directions</a>
 <span class="spacer">|</span>
-<a href="/h" class=<%= "History".equals(curpage) ? "navon" : "nav" %>>History</a>
+<a href="/i" class=<%= "Prepare".equals(curpage) ? "navon" : "nav" %>>Prepare</a>
 <span class="spacer">|</span>
 <a href="/p" class=<%= "Photos".equals(curpage) ? "navon" : "nav" %>>Photos</a>
 <span class="spacer">|</span>

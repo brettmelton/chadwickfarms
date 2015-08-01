@@ -5,11 +5,11 @@ package chadwickfarms.action;
  * 
  * @author brettmelton
  */
-public class HistoryAction extends ChadwickFarmsAction
+public class PrepareAction extends ChadwickFarmsAction
 {
-    public static final String s_strPage = "/history.jsp";
+    public static final String s_strPage = "/incident.jsp";
 
-    public HistoryAction()
+    public PrepareAction()
     {
     }
 

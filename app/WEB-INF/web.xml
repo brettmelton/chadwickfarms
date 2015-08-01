@@ -35,11 +35,11 @@
     </init-param>
   </servlet>
   <servlet>
-    <servlet-name>History</servlet-name>
+    <servlet-name>Prepare</servlet-name>
     <servlet-class>chadwickfarms.servlet.ChadwickFarmsServlet</servlet-class>
     <init-param>
       <param-name>action</param-name>
-      <param-value>HistoryAction</param-value>
+      <param-value>PrepareAction</param-value>
     </init-param>
   </servlet>
   <servlet>
@@ -97,8 +97,8 @@
   </servlet-mapping>
 
   <servlet-mapping>
-    <servlet-name>History</servlet-name>
-    <url-pattern>/h</url-pattern>
+    <servlet-name>Prepare</servlet-name>
+    <url-pattern>/i</url-pattern>
   </servlet-mapping>
 
   <servlet-mapping>
