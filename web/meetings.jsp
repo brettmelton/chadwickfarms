@@ -162,6 +162,16 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 <section id="minutes">
 
 <h2>Meeting Minutes Archive</h2>
+<h3>May 2015</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutes20150511.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Lease Agreements</li>
+<li>Pest Issue</li>
+<li>Earthquake Insurance</li>
+</ul>
+</div>
 <h3>March 2015</h3>
 <div>
 <a href="/documents/minutes/MeetingMinutes20150309.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
