@@ -28,9 +28,9 @@
 
 <h1>Chadwick Farms and surrounding area</h1>
 
-<h3>Snow and Berries</h3>
-<img src="/images/photos/Fall%20berrys.jpg" width="320" border="0">
-<img src="/images/photos/Winters%20Canvas.jpg" width="320" border="0">
+<h3>Fun in the Sun</h3>
+<a href="/images/photos/IMG_0383.jpg" target="_blank"><img src="/images/photos/IMG_0383.jpg" width="320" border="0"></a>
+<a href="/images/photos/2015-08-09 17.03.48.jpg" target="_blank"><img src="/images/photos/2015-08-09 17.03.48.jpg" width="320" border="0"></a>
 <br>
 <h3>Winter Time</h3>
 <a href="/images/photos/DCAM0001.jpg" target="_blank"><img src="/images/photos/DCAM0001.jpg" width="320" border="0"></a>
@@ -42,10 +42,9 @@
 <a href="/images/photos/P1070020.jpg" target="_blank"><img src="/images/photos/P1070020.jpg" width="320" border="0"></a>
 <a href="/images/photos/P1070012.jpg" target="_blank"><img src="/images/photos/P1070012.jpg" width="320" border="0"></a>
 <br>
-<h3>Fun in the Sun</h3>
-<a href="/images/photos/IMG_0383.jpg" target="_blank"><img src="/images/photos/IMG_0383.jpg" width="320" border="0"></a>
-<h3>Entrance Sign at Night</h3>
-<a href="/images/photos/IMG_1280.jpg" target="_blank"><img src="/images/photos/IMG_1280.jpg" width="320" border="0"></a>
+<h3>Snow and Berries</h3>
+<img src="/images/photos/Fall%20berrys.jpg" width="320" border="0">
+<img src="/images/photos/Winters%20Canvas.jpg" width="320" border="0">
 <br>
 
 </center>
