@@ -43,13 +43,15 @@ courses through FEMA as well.<p>
 <a href="http://www.ready.gov/get-involved" target="_blank">Get Involved</a><br>
 <br>
 
-<div style="float: right; padding: 5px 50px 0px 0px;"><img src="/images/prepare/Prepare_cert.png" height="60px"></div>
-<h2>Kirkland CERT</h2>
+<div style="float: right; padding: 20px 50px 0px 0px;"><img src="/images/prepare/Prepare_cert.png" height="60px"></div>
+<h2>Local Kirkland Resources</h2>
+<a href="http://www.kirklandwa.gov/depart/Fire_Services/prepare.htm" target="_blank">Office of Emergency Management</a><br>
+<a href="http://www.kirklandwa.gov/depart/Fire_Services/prepare/PersonalFamilyPreparedness.htm" target="_blank">Personal &amp; Family Preparedness</a><br>
 <a href="http://kirklandcert.com/Information_Resources" target="_blank">Information Resources</a><br>
 <a href="http://kirklandcert.com" target="_blank">CERT Training</a><br>
 <br>
 
-<div style="float: right; padding: 10px 50px 0px 0px;"><img src="/images/prepare/Prepare_fema.png" height="60px"></div>
+<div style="float: right; padding: 20px 50px 0px 0px;"><img src="/images/prepare/Prepare_fema.png" height="60px"></div>
 <h2>FEMA Courses</h2>
 <a href="http://training.fema.gov/is/" target="_blank">Online Courses</a><br>
 <a href="http://training.fema.gov/is/courseoverview.aspx?code=IS-100.b" target="_blank">Incident Command System</a><br>
