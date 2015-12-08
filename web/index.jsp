@@ -6,17 +6,14 @@
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 <link href="/inc/css/announcements.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, kirkland, townhouse, community">
 
 <style type="text/css">
 p:first-letter { font-size: 120%; }
 </style>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 <script src="/inc/js/cf_home.js"></script>
 
@@ -44,8 +41,8 @@ Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
-<h2>Next Board Meeting</h2>
-Monday, Sept. 21, 2015 7:30 PM<br>
+<h2>Annual Board Meeting</h2>
+Monday, February 8, 2015 7:30 PM<br>
 Inglewood Presbyterian Church<br>
 
 <div id="Attention">
@@ -56,6 +53,18 @@ Please note that the speed limit in our community is 5 mph.
 <section id="announcments">
 <h2>Announcements</h2>
 
+<h3>December 7, 2015</h3>
+<div>
+FEMA and other agencies are warning of flooding and mudslides in our area due to
+the heavy rain predicted to come in the next few days. Please drive carefully and be cautious.
+<a href="http://www.seattletimes.com/seattle-news/weather/1-2-3-punch-of-storms-to-bring-drenching-rain-risk-of-floods-landslides/" target="_blank">read more</a>
+</div>
+<h3>Sept 21, 2015</h3>
+<div>
+The annual board meeting is an important meeting to attend. It will be held on December 7, 2015
+at 7:30PM at the Inglewood Presbyterian Church. If you will not be able to attend, please provide
+your proxy vote to a trusted neighbor so that they can vote in your absence.
+</div>
 <h3>July 26, 2015</h3>
 <div>
 <a href="/i"><img src="/images/prepare/Prepare_Sept.png" width="200px"></a><br>
@@ -141,7 +150,7 @@ Kirkland, WA 98034 <br>
 <div class="text">
 <h1>Welcome to chadwickfarms.net</h1>
 
-<img src="/images/cf_funinsun.png" width="100%" border="1">
+<img src="/images/cf_funinsun.jpg" width="100%" border="1">
 
 <h2>Our Community</h2>
 
@@ -152,11 +161,11 @@ minutes drive to Interstate 405.</p>
 
 <h2>Neighborhood Watch</h2>
 
-<img src="/images/cf_signlight.png" width="100%" border="1">
+<img src="/images/cf_signlight.jpg" width="100%" border="1">
 
 <p>One of the most neighborly things you can do for those living nearest you is to watch out over our community.
 Nobody is going to expect you to put on a trench coat and patrol the streets, but being alert and cautious
-can save another from being a victim of a crime.</p>
+can save another from being a victim of a crime. For more information, click <a href="http://www.kirklandwa.gov/depart/PD/Community_Resources/Block_Watch.htm" target="_blank">here</a>.</p>
 <h3>What can you do?</h3>
 <p>The Board of Directors would like for you to contact the police department, the board members, and our property management
 if you witness or experience a crime.   If you are suspicious about a certain behavior, please call the police immediately.

@@ -29,7 +29,7 @@ Requires authentication:&nbsp;
 </div>
 
 <div id="headertransition" class="view view-cfimage">
-  <img src="/images/cf_entrance.png" height="280px" width="800px" />
+  <img src="/images/cf_entrance.jpg" height="280px" width="800px" />
   <div class="mask">
     <h2>Chadwick Farms</h2>
     <p>A wonderful townhouse community of 36 units located in north Kirkland.</p>

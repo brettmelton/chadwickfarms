@@ -5,12 +5,9 @@
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 
 </head>
@@ -29,18 +26,18 @@
 <h1>Chadwick Farms and surrounding area</h1>
 
 <h3>Fun in the Sun</h3>
-<a href="/images/photos/IMG_0383.jpg" target="_blank"><img src="/images/photos/IMG_0383.jpg" width="320" border="0"></a>
-<a href="/images/photos/2015-08-09 17.03.48.jpg" target="_blank"><img src="/images/photos/2015-08-09 17.03.48.jpg" width="320" border="0"></a>
+<a href="/images/photos/IMG_0383.jpg" target="_blank"><img src="/images/photos/tn/IMG_0383.jpg" width="320" border="0"></a>
+<a href="/images/photos/2015-08-09 17.03.48.jpg" target="_blank"><img src="/images/photos/tn/2015-08-09 17.03.48.jpg" width="320" border="0"></a>
 <br>
 <h3>Winter Time</h3>
-<a href="/images/photos/DCAM0001.jpg" target="_blank"><img src="/images/photos/DCAM0001.jpg" width="320" border="0"></a>
-<a href="/images/photos/DCAM0003.jpg" target="_blank"><img src="/images/photos/DCAM0003.jpg" width="320" border="0"></a>
+<a href="/images/photos/DCAM0001.jpg" target="_blank"><img src="/images/photos/tn/DCAM0001.jpg" width="320" border="0"></a>
+<a href="/images/photos/DCAM0003.jpg" target="_blank"><img src="/images/photos/tn/DCAM0003.jpg" width="320" border="0"></a>
 <br>
-<a href="/images/photos/DSCF1026.jpg" target="_blank"><img src="/images/photos/DSCF1026.jpg" width="320" border="0"></a>
-<a href="/images/photos/P1070008.jpg" target="_blank"><img src="/images/photos/P1070008.jpg" width="320" border="0"></a>
+<a href="/images/photos/DSCF1026.jpg" target="_blank"><img src="/images/photos/tn/DSCF1026.jpg" width="320" border="0"></a>
+<a href="/images/photos/P1070008.jpg" target="_blank"><img src="/images/photos/tn/P1070008.jpg" width="320" border="0"></a>
 <br>
-<a href="/images/photos/P1070020.jpg" target="_blank"><img src="/images/photos/P1070020.jpg" width="320" border="0"></a>
-<a href="/images/photos/P1070012.jpg" target="_blank"><img src="/images/photos/P1070012.jpg" width="320" border="0"></a>
+<a href="/images/photos/P1070020.jpg" target="_blank"><img src="/images/photos/tn/P1070020.jpg" width="320" border="0"></a>
+<a href="/images/photos/P1070012.jpg" target="_blank"><img src="/images/photos/tn/P1070012.jpg" width="320" border="0"></a>
 <br>
 <h3>Snow and Berries</h3>
 <img src="/images/photos/Fall%20berrys.jpg" width="320" border="0">

@@ -5,12 +5,9 @@
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 
 </head>
@@ -35,6 +32,9 @@ the lack of electricity and clean water for weeks or months, there will be panic
 The City of Kirkland has an emergency response team that offers CERT training to individuals that are willing to assist
 others in the case of an incident. The 8 week course is offered 2 times a year and costs $40. There are free online
 courses through FEMA as well.<p>
+
+A simple and easy way to start is to print a copy of the <a href="/documents/PrepardnessPlan.pdf" target="_blank">Preparedness Plan</a>,
+fill it out, and share the information with your family and neighbors.<p>
 
 <div style="float: right; padding: 0px 50px 0px 0px;"><img src="/images/prepare/Prepare_ready.png" height="60px"></div>
 <h2>Ready.gov</h2>

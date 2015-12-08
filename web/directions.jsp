@@ -5,12 +5,9 @@
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, kirkland, townhouse, community">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 
 </head>
@@ -42,7 +39,7 @@ From I-405, take the NE 124th Street exit at Totem Lake.  Go west on NE 124th St
 
 <h1>Our Location</h1>
 
-<div><iframe width="450" height="400" frameborder="0" src="http://www.bing.com/maps/embed/viewer.aspx?v=3&cp=47.726618~-122.230723&lvl=17&w=450&h=400&sty=h&typ=d&pp=&ps=&dir=0&mkt=en-us&src=SHELL&form=BMEMJS"></iframe><div style="margin: 12px 0 0 0;"><a target="_blank" href="http://www.bing.com/maps/?cp=47.726618~-122.230723&sty=h&lvl=17&sp=&mm_embed=map">View Larger Map</a>&nbsp; |&nbsp; <a target="_blank" href="http://www.bing.com/maps/?cp=47.726618~-122.230723&sty=h&lvl=17&rtp=~pos.47.726618_-122.230723____&mm_embed=dir">Get Directions</a></div></div>
+<div><iframe width="450" height="400" frameborder="0" src="//www.bing.com/maps/embed/viewer.aspx?v=3&cp=47.726618~-122.230723&lvl=17&w=450&h=400&sty=h&typ=d&pp=&ps=&dir=0&mkt=en-us&src=SHELL&form=BMEMJS"></iframe><div style="margin: 12px 0 0 0;"><a target="_blank" href="http://www.bing.com/maps/?cp=47.726618~-122.230723&sty=h&lvl=17&sp=&mm_embed=map">View Larger Map</a>&nbsp; |&nbsp; <a target="_blank" href="http://www.bing.com/maps/?cp=47.726618~-122.230723&sty=h&lvl=17&rtp=~pos.47.726618_-122.230723____&mm_embed=dir">Get Directions</a></div></div>
 
 <p>
 

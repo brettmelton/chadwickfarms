@@ -6,9 +6,6 @@
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 <link href="/inc/css/minutes.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
 <!-- java imports -->
@@ -29,8 +26,8 @@
 <jsp:useBean id="the_user_id" type="String" class="java.lang.String" scope="request" />
 <jsp:useBean id="the_user_comments" type="String" class="java.lang.String" scope="request" />
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 <script src="/inc/js/cf_meetings.js"></script>
 
@@ -162,6 +159,36 @@ Have something to sell or give away?  Let your board know.  FREE AD SPACE!!<br>
 <section id="minutes">
 
 <h2>Meeting Minutes Archive</h2>
+<h3>2015 Annual Meeting</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutesAnnual201412.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Budget Ratification</li>
+<li>Board Membership</li>
+<li>Special Announcements</li>
+</ul>
+</div>
+<h3>September 2015</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutes20150921.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Board Position Soon to Expire</li>
+<li>Mail Delivery</li>
+<li>Fence Railing</li>
+</ul>
+</div>
+<h3>July 2015</h3>
+<div>
+<a href="/documents/minutes/MeetingMinutes20150720.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>
+Primary topics covered:
+<ul>
+<li>Community Tree Trimming &amp; Removal</li>
+<li>Water Heaters and Garage Door Openers</li>
+<li>Units Sold</li>
+</ul>
+</div>
 <h3>May 2015</h3>
 <div>
 <a href="/documents/minutes/MeetingMinutes20150511.pdf" target="_blank">&nbsp;&nbsp;- View PDF - </a><br>

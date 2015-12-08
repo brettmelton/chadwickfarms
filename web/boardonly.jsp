@@ -5,9 +5,6 @@
 <title>Chadwick Farms</title>
 <link href="/inc/css/melton.css" rel="stylesheet" type="text/css">
 
-<META HTTP-EQUIV="Expires" CONTENT="0"/>
-<META HTTP-EQUIV="Pragma" CONTENT="no-cache"/>
-<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache"/>
 <META NAME="keywords" CONTENT="chadwick farms, townhouse community">
 
 <!-- java imports -->
@@ -25,7 +22,7 @@
 <!-- jsp useBeans -->
 <jsp:useBean id="the_survey_answers" type="ArrayList" class="java.util.ArrayList" scope="request"/>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="/inc/js/chadwickfarms.js"></script>
 <script src="/inc/js/cf_board.js"></script>
 
