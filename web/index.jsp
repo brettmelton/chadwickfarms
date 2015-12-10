@@ -41,8 +41,8 @@ Brett Melton, <span class="boardtitle">Secretary</span> <br>
 Judy Smith, <span class="boardtitle">President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
-<h2>Annual Board Meeting</h2>
-Monday, February 8, 2015 7:30 PM<br>
+<h2>Next Board Meeting</h2>
+Monday, February 8, 2016 7:30 PM<br>
 Inglewood Presbyterian Church<br>
 
 <div id="Attention">
@@ -53,6 +53,12 @@ Please note that the speed limit in our community is 5 mph.
 <section id="announcments">
 <h2>Announcements</h2>
 
+<h3>December 8, 2015</h3>
+<div>
+Please consider joining neighborhood online resources such as <a href="https://finnhillwa.nextdoor.com" target="_blank">NextDoor</a>
+and the <a href="https://www.facebook.com/groups/finnhillneighbors" target="_blank">Fill Hill Neighbors</a> facebook page. These resources
+will keep you up to date with interesting postings that your neighbors have to share.
+</div>
 <h3>December 7, 2015</h3>
 <div>
 FEMA and other agencies are warning of flooding and mudslides in our area due to
