@@ -33,16 +33,16 @@ p:first-letter { font-size: 120%; }
 
 <!-- announcements -->
 
-<h2>Community Board</h2>
-Marika Eve, <span class="boardtitle">Vice President</span> <br>
+<h2>2016 Community Board</h2>
+Marika Eve, <span class="boardtitle">Secretary</span> <br>
 Keith Frikken, <span class="boardtitle">Treasurer</span> <br>
 Julie Hopkins, <span class="boardtitle">Member at Large</span> <br>
-Brett Melton, <span class="boardtitle">Secretary</span> <br>
-Judy Smith, <span class="boardtitle">President</span> <br>
+Brett Melton, <span class="boardtitle">President</span> <br>
+Judy Smith, <span class="boardtitle">Vice President</span> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:board@chadwickfarms.net" target="_blank">email us</a><br>
 
 <h2>Next Board Meeting</h2>
-Monday, February 8, 2016 7:30 PM<br>
+Monday, April 11, 2016 7:00 PM<br>
 Inglewood Presbyterian Church<br>
 
 <div id="Attention">
